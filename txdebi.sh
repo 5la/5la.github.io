@@ -252,6 +252,13 @@ while [ $# -gt 0 ]; do
             ntp=ntp.tencent.com
             security_repository=mirror
             ;;
+        --txyun)
+            dns='119.29.29.29 180.76.76.76'
+            mirror_protocol=http
+            mirror_host=mirrors.tencentyun.com
+            ntp=ntp.tencent.com
+            security_repository=mirror
+            ;;            
         --interface)
             interface=$2
             shift
