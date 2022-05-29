@@ -247,8 +247,8 @@ while [ $# -gt 0 ]; do
             ;;
         --china)
             dns='119.29.29.29 180.76.76.76'
-            mirror_protocol=https
-            mirror_host=mirrors.tencent.com
+            mirror_protocol=http
+            mirror_host=mirrors.tencentyun.com
             ntp=ntp.tencent.com
             security_repository=mirror
             ;;
