@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>随机小学数学题</title>
+		<style type="text/css">
+			*{
+				
+				font-family: "微软雅黑";
+				font-size: 20px;
+				border-collapse: collapse;
+			}
+			#title,.p_title{
+				text-align: center;
+				font-size: 30px;
+				font-weight: 900;
+			}
+			#title{
+				height: 120px;
+				line-height: 120px;
+			}
+			.p_title{
+				clear: both;
+				height: 140px;
+				line-height: 140px;
+				display: none;
+			}
+			#choose{
+				text-align: center;
+			}
+			#out{
+				width: 880px;
+				margin: 20px auto;
+				padding: 20px;
+			}
+			#content{
+				/*height: 1000px;*/
+				float: left;
+				border: 1px black solid;
+			}
+			.question{
+				width: 420px;
+				height: 47px;
+				float: left;
+			}
+			.question .subject{
+				display: inline-block;
+				
+			}
+			.question .result{
+				text-align: center;
+				border: 0px;
+				border-bottom: 1px black solid;
+			}
+			.a,.b,.c,.answer{
+				display: inline-block;
+				width: 60px;
+				text-align: center;
+			}
+			.op,.op2{
+				display: inline-block;
+				width: 22px;
+				text-align: center;
+			}
+			.answer{
+				color: green;
+				/*font-style: italic;*/
+				font-weight: 900;
+			}
+			.hidden{
+				display: none;
+			}
+			.show{
+				display: inline-block;
+			}
+			.seq{
+				display: none;
+				font-style: italic;
+				width: 30px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="">
+			<div id="title">
+					小学数学练习题
+			</div>
+			<div id="top">
+				<div id="choose">
+					<form action="" method="post" onsubmit="return false;" name="ckop">
+						选择符号：
+						<input type="checkbox" name="op" id="jia" value="+" checked/><label for="jia">加</label>&emsp;
+						<input type="checkbox" name="op" id="jian" value="-"/><label for="jian">减</label>&emsp;
+						<input type="checkbox" name="op" id="cheng" value="*"/><label for="cheng">乘</label>&emsp;
+						<input type="checkbox" name="op" id="chu" value="/"/><label for="chu">除</label>&emsp;
+						<br /><br />
+						输入范围：
+						<input type="text" value="0" size="8" id="minNum"/>&emsp;到&emsp;<input type="text" value="100" size="8" id="maxNum"/>
+						<br /><br />
+						数量：<input type="text" id="q_num" value="50" />
+						是否显示编号：<input type="checkbox" id="s_seq" onchange="show_seq(this);" />
+						<br /><br />
+						<input type="button" value="出题" onclick="work();"/>
+						<input type="button" value="显示答案" id="show_an" onclick="show_answer(this);" />
+						<input type="button" value="判题" id="check_an" onclick="check_answer(this);" />
+						<input type="button" value="打印" onclick="print_q();" />
+						<input type="button" value="隐藏横线打印"  onclick="show_line(this);" />
+						<br /><br />
+						<div>注：可以先点击 "显示答案" 再后再选择 "隐藏横线打印" 打印答案</div>
+						<div id="show_msg"></div>
+					</form>
+				</div>
+			</div>
+			<div id="out">
+				<div id="content" >
+                	<!--<div class="question">
+						<span class="seq">1、&emsp;</span>
+						<span class="subject">
+							<span class="a">1</span>
+							<span>+</span>
+							<span class="b">1</span>
+							<span>+</span>
+							<span class="c">1</span>
+							=<input type="text" size="6" class="result" />
+						</span>
+						<span class="answer">2</span>
+						<span class="tip">√</span>
+					</div>-->
+				</div>
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript">
+		var op=[];// 运算符数组
+		var minNum,maxNum,a,b,total=0;// 获取最小值，最大值，随机数a，数b;总题数
+		var title = "";
+		// 获取参数
+		function getOp () {
+			// 获取选中的运算符
+			op=[];
+			ops = document.getElementsByName("op");
+			for (var i = 0; i < ops.length; i++) {
+				if(ops[i].checked){
+					op.push(ops[i].value);
+				}
+			}
+			// 获取数
+			minNum = parseInt(document.getElementById("minNum").value);
+			maxNum = parseInt(document.getElementById("maxNum").value);
+			total = document.getElementById("q_num").value;
+			if(isNaN(minNum) || isNaN(maxNum)){
+				alert("请输入正确的数字！");
+				return false;
+			}
+			title = "小学数学【";
+			for (var i = 0; i < op.length; i++) {
+				switch (op[i]){
+					case '+':title += "加、";break;
+					case '-':title += "减、";break;
+					case '*':title += "乘、";break;
+					case '/':title += "除、";break;
+					default:
+						break;
+				}
+			}
+			title = title.substr(0,title.length-1);
+			title+="】练习题";
+			document.getElementById("title").innerHTML = title;
+			return true;
+		}
+		// 出题按钮
+		function work () {
+			document.getElementById("content").innerHTML = "";
+			document.getElementById("check_an").value ="判题";
+			document.getElementById("show_an").value = "显示答案";
+			document.getElementById("s_seq").checked = false;
+			if(!getOp()){ return; }
+			for (var i = 1; i <= total; i++) {
+				getQuerstin(i);
+			}
+		}
+		// 出题并显示
+		function getQuerstin (seq) {
+			a = Math.floor(Math.random()*(maxNum-minNum+1)+minNum);
+			b = Math.floor(Math.random()*(maxNum-minNum+1)+minNum);
+			c = Math.floor(Math.random()*(maxNum-minNum+1)+minNum);
+			o = op[Math.floor(Math.random()*op.length)];
+			o2 = op[Math.floor(Math.random()*op.length)];
+			// 除数不能为0，并且a/b能整除，b为a的约数
+			if(o=='/'){ // 
+				if(b==0){b= Math.floor(Math.random()*(maxNum)+1);}
+				if(a!=0){
+					// a = Math.floor(Math.random()*(maxNum)+1);// 让被除数不为0
+					b = getChuShu(a);// 除法运算，除数为被除数的约数
+				}
+			}
+			if(o2 == '/'){
+				// 除数C不能为0
+				if(c==0){
+					c = Math.floor(Math.random()*(maxNum)+1);// 让除数不为0
+				}
+				// b/c能整除
+				if(o == "+" || o=="-"){
+					if(b!=0){
+						//b = Math.floor(Math.random()*(maxNum)+1);// 让被除数不为0
+						c = getChuShu(b);// 除法运算，除数为被除数的约数
+					}
+				}
+				else if(o=="*" || o== "/"){
+					var temp = eval(a+o+b);
+					if(temp != "0"){
+						c = getChuShu(temp);// 除法运算，除数为被除数的约数
+					}
+				}
+			}
+			// 答案：
+			var answer = eval(a+o+b+o2+c);
+			// 乘号: &times;   ×  除法:  &divide;  ÷    &minus;  -
+			var str = o.replace("*","&times;").replace("/","&divide;");
+			var op2 = o2.replace("*","&times;").replace("/","&divide;");
+			var txt = "<div class='question'><span class='seq'>"+seq+"、&emsp;</span><span class='subject'><span class='a'>"+a+"</span><span class='op'>"+str+"</span><span class='b'>"+b+"</span><span class='op2'>"+op2+"</span><span class='c'>"+c+"</span>=&emsp;<input type='text' size='6' class='result' /></span><span class='answer  hidden'>"+answer+"</span><span class='tip'></span></div>"
+
+			var content = document.getElementById("content");
+			content.innerHTML = content.innerHTML + txt;
+			if(seq%50==0 && seq <total){
+				// txt += "<div style='clear: both;height: 70px;'></div>";
+				content.innerHTML = content.innerHTML + "<div class='p_title'>"+title+"</div>";
+			}
+		}
+		
+		// 根据被除数，随机除数
+		function getChuShu (n) {
+			var yueshu = [];// 约数
+			for(var i=1;i<=n;i++){
+				if(n%i==0){yueshu.push(i)}
+			}
+			if(yueshu.length>2){ // 如果约数除了1和本身，就排除1和本身
+				return yueshu[Math.floor(Math.random()*(yueshu.length-2)+1)];
+			}
+			return yueshu[Math.floor(Math.random()*yueshu.length)];
+		}
+		// 显示隐藏答案
+		function show_answer (ts) {
+			var flag = false;
+			if(ts.value == "显示答案"){
+				flag= true;
+				ts.value = "隐藏答案";
+			}else{
+				flag = false;
+				ts.value = "显示答案"
+			}
+			var answers = document.getElementsByClassName("answer");
+			for (var i = 0; i < answers.length; i++) {
+				if(flag) answers[i].className = "answer";
+				else answers[i].className = "answer hidden";
+			}
+		}
+		// 判题
+		function check_answer (ts) {
+			var flag = false;
+			var count_true = 0,count_false = 0;
+			if(ts.value == "判题"){
+				flag= true;
+				ts.value = "取消判题";
+			}else{
+				flag = false;
+				ts.value = "判题";
+			}
+			var answers = document.getElementsByClassName("answer"); 
+			var results = document.getElementsByClassName("result"); 
+			var tips = document.getElementsByClassName("tip"); 
+			if(!flag){// 取消判题
+				for (var i = 0; i < tips.length; i++) {
+					tips[i].innerHTML ="";
+				}
+				document.getElementById("show_msg").innerHTML ="";
+				return;
+			}
+			for (var i = 0; i < results.length; i++) {
+				if(results[i].value == answers[i].innerText){
+					tips[i].innerHTML = "<span style='color: green;'> √ </span>";count_true++;
+				}else{
+					tips[i].innerHTML = "<span style='color: red;'> x </span>";count_false++;
+				}
+			}
+			document.getElementById("show_msg").innerHTML = "总题数：" + total + "&emsp;&emsp;对："+count_true +"&emsp;&emsp;错："+count_false+"&emsp;&emsp;正确率："+isFloat(count_true/total)*100 +"%";
+		}
+		// 打印
+		function print_q () {
+			var top = document.getElementById("top");
+			top.style.display="none";
+    		var p_titles = document.getElementsByClassName("p_title");
+			for (var i = 0; i < p_titles.length; i++) {
+				p_titles[i].style.display = "block";
+			}
+			document.getElementById("content").style.border = "0";
+    		window.print(); 
+    		top.style.display="block";
+    		for (var i = 0; i < p_titles.length; i++) {
+				p_titles[i].style.display = "none";
+			}
+    		document.getElementById("content").style.border = "1px black solid";
+		}
+		
+		function show_line (ts) {
+			var results = document.getElementsByClassName("result");
+			for (var i = 0; i < results.length; i++) {
+					results[i].style.display = "none";
+			}
+			print_q ();
+			for (var i = 0; i < results.length; i++) {
+					results[i].style.display = "inline-block";
+			}
+		}
+		
+		function show_seq (ts) {
+			var seqs = document.getElementsByClassName("seq");
+			for (var i = 0; i < seqs.length; i++) {
+				if(ts.checked){
+					seqs[i].style.display = "inline-block";
+				}else{
+					seqs[i].style.display = "none";
+				}
+			}
+		}
+		// 小数取两位小数
+		function isFloat (n) {
+			if(parseInt(n) < parseFloat(n)) {
+				n = n.toFixed(2);
+			}
+			return n;
+		}
+	</script>
+</html>
