@@ -1,0 +1,313 @@
+bind_host: 0.0.0.0
+bind_port: 3000
+beta_bind_port: 0
+users:
+- name: root
+  password: $2y$10$35qKW8uq3ndnKAi9tPyZJe28x0QOelfqEo70YvXVlBXebILukDlmi
+auth_attempts: 5
+block_auth_min: 15
+http_proxy: ""
+language: ""
+debug_pprof: false
+web_session_ttl: 720
+dns:
+  bind_hosts:
+  - 0.0.0.0
+  port: 5553
+  statistics_interval: 30
+  querylog_enabled: true
+  querylog_file_enabled: true
+  querylog_interval: 720h
+  querylog_size_memory: 1000
+  anonymize_client_ip: false
+  protection_enabled: true
+  blocking_mode: nxdomain
+  blocking_ipv4: ""
+  blocking_ipv6: ""
+  blocked_response_ttl: 10
+  parental_block_host: family-block.dns.adguard.com
+  safebrowsing_block_host: standard-block.dns.adguard.com
+  ratelimit: 0
+  ratelimit_whitelist: []
+  refuse_any: false
+  upstream_dns:
+  - 127.0.0.1:7874
+  - 58.22.96.66
+  - 218.104.128.106
+  - 10.0.0.1
+  - https://dns.alidns.com/dns-query
+  upstream_dns_file: ""
+  bootstrap_dns:
+  - fd00:f46d:2f39:d0ec:f66d:2fff:fe39:d0ec
+  - 58.22.96.66
+  - 218.104.128.106
+  - 10.0.0.1
+  all_servers: true
+  fastest_addr: false
+  fastest_timeout: 1s
+  allowed_clients: []
+  disallowed_clients: []
+  blocked_hosts:
+  - version.bind
+  - id.server
+  - hostname.bind
+  trusted_proxies:
+  - 127.0.0.0/8
+  - ::1/128
+  cache_size: 104857600
+  cache_ttl_min: 2
+  cache_ttl_max: 86400
+  cache_optimistic: true
+  bogus_nxdomain: []
+  aaaa_disabled: false
+  enable_dnssec: false
+  edns_client_subnet: false
+  max_goroutines: 300
+  ipset: []
+  filtering_enabled: true
+  filters_update_interval: 12
+  parental_enabled: false
+  safesearch_enabled: false
+  safebrowsing_enabled: false
+  safebrowsing_cache_size: 1048576
+  safesearch_cache_size: 1048576
+  parental_cache_size: 1048576
+  cache_time: 30
+  rewrites: []
+  blocked_services: []
+  upstream_timeout: 10s
+  private_networks: []
+  use_private_ptr_resolvers: false
+  local_ptr_upstreams: []
+tls:
+  enabled: false
+  server_name: ""
+  force_https: false
+  port_https: 443
+  port_dns_over_tls: 853
+  port_dns_over_quic: 853
+  port_dnscrypt: 0
+  dnscrypt_config_file: ""
+  allow_unencrypted_doh: false
+  strict_sni_check: false
+  certificate_chain: ""
+  private_key: ""
+  certificate_path: ""
+  private_key_path: ""
+filters:
+- enabled: true
+  url: http://sub.adtchrome.com/adt-chinalist-easylist.txt
+  name: 终结者
+  id: 1656638236
+- enabled: true
+  url: https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
+  name: easylistchina+easylist
+  id: 1656638237
+- enabled: true
+  url: https://easylist-downloads.adblockplus.org/easyprivacy.txt
+  name: easyprivacy
+  id: 1656638238
+- enabled: true
+  url: https://gist.githubusercontent.com/Ewpratten/a25ae63a7200c02c850fede2f32453cf/raw/b9318009399b99e822515d388b8458557d828c37/hosts-yt-ads
+  name: Ytbad
+  id: 1656638240
+- enabled: true
+  url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+  name: "1024"
+  id: 1656638241
+- enabled: true
+  url: https://adaway.org/hosts.txt
+  name: Adaway
+  id: 1656638242
+- enabled: true
+  url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
+  name: Neo Host
+  id: 1656638243
+- enabled: true
+  url: https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
+  name: anti-AD
+  id: 1656638244
+- enabled: true
+  url: https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds-Ultra.txt
+  name: GoodbyeAds
+  id: 1656652808
+- enabled: true
+  url: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@fde3079900b111e2c6881f6e385110a04e23c18e/ad-pc.txt
+  name: ad-pc
+  id: 1656671163
+- enabled: true
+  url: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-mo.txt
+  name: ad-mo
+  id: 1656671164
+- enabled: true
+  url: https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/allow.txt
+  name: allow
+  id: 1656671165
+- enabled: true
+  url: https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
+  name: For Dns
+  id: 1656671166
+whitelist_filters: []
+user_rules:
+- '||t7z.cupid.ptqy.gitv.tv^$important'
+- '@@||g.live.com^$important'
+- '@@||s.click.taobao.com^$important'
+- '@@||ipassport.ele.me^$important'
+- '@@||wl.jd.com^$important'
+- /googleads.$~script,domain=~googleads.github.io
+- /pagead/lvz?
+- '||google.com/pagead/'
+- '||static.doubleclick.net^$domain=youtube.com'
+- '||youtube.com/get_midroll_'
+- '||youtube.com/api/stats/ads'
+- '||youtube.com/pagead/adview'
+- '||yt3.ggpht.com^'
+- '||youtube.com/pcs/activeview'
+- '||youtube.com/get_video_info'
+- '||ad.mi.com'
+- '||api.io.mi.com'
+- '||ad.xiaomi.com'
+- '||api.ad.xiaomi.com'
+- '||ad1.xiaomi.com'
+- '||b.netcheck.gallery.pandora.xiaomi.com'
+- '||bss.pandora.xiaomi.com'
+- '||config.kuyun.com'
+- '||data.mistat.xiaomi.com'
+- '||de.pandora.xiaomi.com'
+- '||dvb.pandora.xiaomi.com'
+- '||gallery.pandora.xiaomi.com'
+- '||gvod.aiseejapp.atianqi.com'
+- '||jellyfish.pandora.xiaomi.com'
+- '||logonext.tv.kuyun.com'
+- '||mishop.pandora.xiaomi.com'
+- '||o2o.api.xiaomi.com'
+- '||sdkconfig.ad.xiaomi.com'
+- '||staging.ai.api.xiaomi.com'
+- '||stat.pandora.xiaomi.com'
+- '||t7z.cupid.ptqy.gitv.tv^$important'
+- '||upgrade.mishop.pandora.xiaomi.com'
+- '||active.tc.skysrt.com^'
+- '||ad.3.cn^'
+- '||admaster.com.cn^'
+- '||alog.umeng.com^'
+- '||amdcopen.m.taobao.com^'
+- '||api.app.skysrt.com^'
+- '||api.device.skysrt.com^'
+- '||api.hoisin.hw.coocaatv.com^'
+- '||api.home.skysrt.com^'
+- '||api.skyworthiot.com^'
+- '||api.upgrade.skysrt.com^'
+- '||api-app.coocaa.ottcn.com^'
+- '||api-home.coocaa.ottcn.com^'
+- '||api-home.skysrt.com^'
+- '||api-upgrade.coocaa.ottcn.com^'
+- '||app.snm0516.aisee.tv^'
+- '||btrace.play.t002.ottcn.com^'
+- '||business.video.tc.skysrt.com^'
+- '||cl-dl.cc0808.com^'
+- '||clog.skysrt.com^'
+- '||conf-darwin.xycdn.com^'
+- '||connect.play.aiseet.atianqi.com^'
+- '||data-dl.skysrt.com^'
+- '||data-hoisin.coocaa.com^'
+- '||dl.skysrt.com^'
+- '||dp3.play.t002.ottcn.com^'
+- '||gs.getui.com^'
+- '||hoisin.coocaa.com^'
+- '||hoisin.coocaatv.com^'
+- '||irs01.com^'
+- '||kaola.com^'
+- '||livep.l.t002.ottcn.com^'
+- '||log.skysrt.com^'
+- '||mdp-at.geely.com^'
+- '||member.coocaa.com^'
+- '||miaozhen.com^'
+- '||mtrace.play.t002.ottcn.com^'
+- '||ocsp.int-x3.letsencrypt.org^'
+- '||p.tencentmind.com^'
+- '||play.t002.ottcn.com^'
+- '||push.tc.skysrt.com^'
+- '||push.tvos.skysrt.com^'
+- '||puui.qpic.cn^'
+- '||qr.coocaa.com^'
+- '||res.hoisin.coocaatv.com^'
+- '||rpc-tc.skysrt.com^'
+- '||rpt-gdt.play.t002.ottcn.com^'
+- '||s.jpush.cn^'
+- '||sdk1xyajs.data.p2cdn.com^'
+- '||sis.jpush.io^'
+- '||sky.tvos.skysrt.com^'
+- '||skyworthdigital.com^'
+- '||skyworthiot.com^'
+- '||stats.jpush.cn^'
+- '||status.tvos.skysrt.com^'
+- '||status2.tvos.skysrt.com^'
+- '||sv.video.qq.com^'
+- '||taps.net^'
+- '||tq.skysrt.com^'
+- '||tracker.appadhoc.com^'
+- '||tvapp.hpplay.cn^'
+- '||tvos.skysrt.com^'
+- '||tx.ctrmi.cn^'
+- '||umengacs.m.taobao.com^'
+- '||uop.umeng.com^'
+- '||update01.skyworth-cloud.com.wswebpic.com^'
+- '||update01.skyworth-cloud.com^'
+- '||vqq.admaster.com.cn^'
+- '||webapp.skysrt.com^'
+- '||bak.bajintech.com^$important^'
+- '||iwd.skysrt.com^$important^'
+- '||ipv4only.arpa^$important^'
+- '||api.bajintech.com^$important^'
+- '||wifimodule.doubimeizhi.com^$important^'
+- '||msy59wz.mqtt.iot.gz.baidubce.com^$important^'
+- '||i.ytimg.com^$important^'
+- '||qq.com^$client=''10.0.0.99'''
+- '||baidu.com^$client=''10.0.0.99'''
+- '||aliyun.com^$client=''10.0.0.99''^'
+- '||taobao.com^$client=''10.0.0.99''^'
+- '||alibaba.com^$client=''10.0.0.99''^'
+- '||aliyuncs.com^$client=''10.0.0.99''^'
+- '||xp.apple.com^'
+- '||mesu.apple.com^'
+- '||gdmf.apple.com^'
+- '||ocsp.apple.com^'
+- '||appldnld.apple.com^'
+- '||world-gen.g.aaplimg.com^'
+dhcp:
+  enabled: false
+  interface_name: ""
+  local_domain_name: ""
+  dhcpv4:
+    gateway_ip: ""
+    subnet_mask: ""
+    range_start: ""
+    range_end: ""
+    lease_duration: 86400
+    icmp_timeout_msec: 1000
+    options: []
+  dhcpv6:
+    range_start: ""
+    lease_duration: 86400
+    ra_slaac_only: false
+    ra_allow_slaac: false
+clients:
+  runtime_sources:
+    whois: true
+    arp: true
+    rdns: false
+    dhcp: true
+    hosts: true
+  persistent: []
+log_compress: false
+log_localtime: false
+log_max_backups: 0
+log_max_size: 100
+log_max_age: 3
+log_file: ""
+verbose: false
+os:
+  group: ""
+  user: ""
+  rlimit_nofile: 0
+schema_version: 14
