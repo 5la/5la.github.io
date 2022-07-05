@@ -1,5 +1,5 @@
 {
-"spider": "http://118.190.244.195/tvmovie/bd/custom_spider.jar",
+"spider": "https://5la.github.io/jar/custom_spider.jar",
 
 "sites": [
 {"key": "csp_Mjxq"       ,"name":"美剧星球🐞","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
