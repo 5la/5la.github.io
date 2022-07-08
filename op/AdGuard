@@ -21,7 +21,7 @@ dns:
   querylog_size_memory: 1000
   anonymize_client_ip: false
   protection_enabled: true
-  blocking_mode: nxdomain
+  blocking_mode: default
   blocking_ipv4: ""
   blocking_ipv6: ""
   blocked_response_ttl: 10
@@ -38,10 +38,10 @@ dns:
   - https://dns.alidns.com/dns-query
   upstream_dns_file: ""
   bootstrap_dns:
-  - fd00:f46d:2f39:d0ec:f66d:2fff:fe39:d0ec
   - 58.22.96.66
   - 218.104.128.106
   - 10.0.0.1
+  - fd00:f46d:2f39:d0ec:f66d:2fff:fe39:d0ec
   all_servers: true
   fastest_addr: false
   fastest_timeout: 1s
@@ -127,7 +127,7 @@ filters:
   url: https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
   name: anti-AD
   id: 1656638244
-- enabled: true
+- enabled: false
   url: https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds-Ultra.txt
   name: GoodbyeAds
   id: 1656652808
@@ -274,6 +274,8 @@ user_rules:
 - '||ocsp.apple.com^'
 - '||appldnld.apple.com^'
 - '||world-gen.g.aaplimg.com^'
+- '@@||m.baike.so.com^$important'
+- ""
 dhcp:
   enabled: false
   interface_name: ""
