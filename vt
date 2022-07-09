@@ -4,6 +4,11 @@ allow-lan: true
 mode: Rule
 log-level: info
 external-controller: :9090
+default-namesever:
+  - tls://223.5.5.5:853
+  - tls://1.12.12.12:853
+  - tls://120.53.53.53:853
+  - tls://223.6.6.6:853
 proxies:
   - {name: KT, server: kt.welsun.win, port: 11378, type: trojan, password: Isky729007, sni: kt.welsun.win, skip-cert-verify: true, udp: true}
   - {name: FT, server: ft.welsun.win, port: 38802, type: trojan, password: Isky729007, sni: ft.welsun.win, skip-cert-verify: true, udp: true}
