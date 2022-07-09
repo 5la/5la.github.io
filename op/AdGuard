@@ -147,6 +147,22 @@ filters:
   url: https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
   name: For Dns
   id: 1656671166
+- enabled: true
+  url: https://fastly.jsdelivr.net/gh/hacamer/Adblist@master/adp.txt
+  name: Adp
+  id: 1657372201
+- enabled: true
+  url: https://gitlab.com/jdlingyu/ext_rules/raw/main/hosts/sha_ad_hosts
+  name: Adhost
+  id: 1657372202
+- enabled: true
+  url: https://block.energized.pro/basic/formats/domains.txt
+  name: Domains
+  id: 1657372203
+- enabled: true
+  url: https://easylist-downloads.adblockplus.org/exceptionrules.txt
+  name: Exceptionrules
+  id: 1657372204
 whitelist_filters: []
 user_rules:
 - '||t7z.cupid.ptqy.gitv.tv^$important'
