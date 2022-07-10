@@ -18,7 +18,7 @@ proxies:
     #obfs: yourpassword
     alpn: h3
     protocol: wechat-video          #支持udp/wechat-video/faketcp
-    up: '625 Mbps'          #若不写单位，默认为Mbps
+    up: '375 Mbps'          #若不写单位，默认为Mbps
     down: '625 Mbps'       #若不写单位，默认为Mbps
     #sni: ut.welsun.win
     #skip-cert-verify: false
