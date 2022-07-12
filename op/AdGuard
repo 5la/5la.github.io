@@ -155,7 +155,7 @@ filters:
   url: https://gitlab.com/jdlingyu/ext_rules/raw/main/hosts/sha_ad_hosts
   name: Adhost
   id: 1657372202
-- enabled: true
+- enabled: false
   url: https://block.energized.pro/basic/formats/domains.txt
   name: Domains
   id: 1657372203
