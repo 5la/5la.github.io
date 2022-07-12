@@ -3,7 +3,7 @@ bind_port: 3000
 beta_bind_port: 0
 users:
 - name: root
-  password: $2y$10$8uOgztl4u4qL0E8PZH5wfOBY2wd8bIdKtaoKaN1uyyUeoSLzPtCsy
+  password: $2y$10$7dTLqP.RRt4MwfmPTpO2uut8N1RYy53wpkH3JUICKlLuGhpcEfv/e
 auth_attempts: 5
 block_auth_min: 15
 http_proxy: ""
@@ -97,7 +97,7 @@ tls:
 filters:
 - enabled: true
   url: http://sub.adtchrome.com/adt-chinalist-easylist.txt
-  name: 终结者
+  name: Terminator
   id: 1656638236
 - enabled: true
   url: https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
