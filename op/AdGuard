@@ -35,6 +35,9 @@ dns:
   - 58.22.96.66
   - 218.104.128.106
   - 10.0.0.1
+  - tls://dns.pub
+  - https://dns.pub/dns-query
+  - tls://dns.alidns.com
   - https://dns.alidns.com/dns-query
   upstream_dns_file: ""
   bootstrap_dns:
