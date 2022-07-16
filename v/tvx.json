@@ -1,7 +1,7 @@
 {
 "spider":"https://5la.github.io/jar/0701.jar",
 "spider":"https://5la.github.io/jar/qiaoji.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lvc2Frb2kudGs6NTcxNi9kL0FsaXN0L3R2Ym94L3R2L2JjLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doLzVsYS81bGEuZ2l0aHViLmlvQG1hc3Rlci92L2JjLnR4dA=="]}]}],
 
 "sites":[
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
