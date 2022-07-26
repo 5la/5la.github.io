@@ -91,294 +91,547 @@ LiveABC互動英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gt
 阿里郎頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
 半島國際新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
 
+福建联通,#genre#
+单播
+CCTV1,rtsp://112.111.36.140/PLTV/88888909/224/3221225703/10000100000000060000000000391319_0.smil
+CCTV2,rtsp://112.111.36.140/PLTV/88888909/224/3221225702/10000100000000060000000000391317_0.smil
+CCTV3,rtsp://112.111.36.140/PLTV/88888909/224/3221225846/10000100000000060000000002691332_0.smil
+CCTV4,rtsp://112.111.36.140/PLTV/88888909/224/3221225784/10000100000000060000000001425423_0.smil
+CCTV5,rtsp://112.111.36.140/PLTV/88888909/224/3221225848/10000100000000060000000002694494_0.smil
+CCTV5+,rtsp://112.111.36.140/PLTV/88888909/224/3221225750/10000100000000060000000000403958_0.smil
+CCTV6,rtsp://112.111.36.140/PLTV/88888909/224/3221225847/10000100000000060000000002691351_0.smil
+CCTV7,rtsp://112.111.36.140/PLTV/88888909/224/3221225701/10000100000000060000000000391316_0.smil
+CCTV8,rtsp://112.111.36.140/PLTV/88888909/224/3221225849/10000100000000060000000002694522_0.smil
+CCTV9,rtsp://112.111.36.140/PLTV/88888909/224/3221225700/10000100000000060000000000391315_0.smil
+CCTV10,rtsp://112.111.36.140/PLTV/88888909/224/3221225699/10000100000000060000000000391290_0.smil
+CCTV11,rtsp://112.111.36.140/PLTV/88888909/224/3221225737/10000100000000060000000000401678_0.smil
+CCTV12,rtsp://112.111.36.140/PLTV/88888909/224/3221225698/10000100000000060000000000391289_0.smil
+CCTV13,rtsp://112.111.36.140/PLTV/88888909/224/3221225745/10000100000000060000000000403953_0.smil
+CCTV14,rtsp://112.111.36.140/PLTV/88888909/224/3221225697/10000100000000060000000000391272_0.smil
+CCTV15,rtsp://112.111.36.140/PLTV/88888909/224/3221225746/10000100000000060000000000403954_0.smil
+CCTV17,rtsp://112.111.36.140/PLTV/88888909/224/3221225769/10000100000000060000000001410290_0.smil
+爱上4K,rtsp://112.111.36.140/PLTV/88888909/224/3221225965/10000100000000060000000003176328_0.smil
+CGTN,rtsp://112.111.36.140/PLTV/88888909/224/3221225734/10000100000000060000000000401649_0.smil
+CGTN纪录,rtsp://112.111.36.140/PLTV/88888909/224/3221225850/10000100000000060000000002734715_0.smil
+CGTN法语,rtsp://112.111.36.140/PLTV/88888909/224/3221225851/10000100000000060000000002734713_0.smil
+CGTN俄语,rtsp://112.111.36.140/PLTV/88888909/224/3221225852/10000100000000060000000002734711_0.smil
+全纪实,rtsp://112.111.36.140/PLTV/88888909/224/3221225791/10000100000000060000000001506715_0.smil
+上海纪实,rtsp://112.111.36.140/PLTV/88888909/224/3221225683/10000100000000060000000000390171_0.smil
+金鹰纪实,rtsp://112.111.36.140/PLTV/88888909/224/3221225682/10000100000000060000000000390143_0.smil
+东南卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225774/10000100000000060000000001423288_0.smil
+东方卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225688/10000100000000060000000000390279_0.smil
+深圳卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225853/10000100000000060000000002736640_0.smil
+湖南卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225695/10000100000000060000000000390504_0.smil
+江苏卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225696/10000100000000060000000000390505_0.smil
+浙江卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225689/10000100000000060000000000390304_0.smil
+北京卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225692/10000100000000060000000000390475_0.smil
+广东卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225686/10000100000000060000000000390277_0.smil
+山东卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225687/10000100000000060000000000390278_0.smil
+湖北卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225691/10000100000000060000000000390400_0.smil
+黑龙江卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225694/10000100000000060000000000390477_0.smil
+贵州卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225782/10000100000000060000000001425325_0.smil
+安徽卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225685/10000100000000060000000000390210_0.smil
+天津卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225690/10000100000000060000000000390378_0.smil
+辽宁卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225684/10000100000000060000000000390192_0.smil
+河北卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225714/10000100000000060000000000401011_0.smil
+河南卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225725/10000100000000060000000000401166_0.smil
+海南卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225711/10000100000000060000000000400978_0.smil
+吉林卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225717/10000100000000060000000000401066_0.smil
+云南卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225752/10000100000000060000000000428648_0.smil
+四川卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225715/10000100000000060000000000401042_0.smil
+江西卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225716/10000100000000060000000000401043_0.smil
+重庆卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225713/10000100000000060000000000401010_0.smil
+广西卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225712/10000100000000060000000000400979_0.smil
+陕西卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225724/10000100000000060000000000401165_0.smil
+青海卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225719/10000100000000060000000000401068_0.smil
+宁夏卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225726/10000100000000060000000000401167_0.smil
+山西卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225721/10000100000000060000000000401102_0.smil
+甘肃卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225718/10000100000000060000000000401067_0.smil
+内蒙古卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225720/10000100000000060000000000401101_0.smil
+新疆卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225723/10000100000000060000000000401133_0.smil
+兵团卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225707/10000100000000060000000000391858_0.smil
+西藏卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225722/10000100000000060000000000401132_0.smil
+三沙卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225804/10000100000000060000000001515181_0.smil
+南方卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225781/10000100000000060000000001425242_0.smil
+中国天气,rtsp://112.111.36.140/PLTV/88888909/224/3221225805/10000100000000060000000001551139_0.smil
+MAX极速汽车,rtsp://112.111.36.140/PLTV/88888909/224/3221225809/10000100000000060000000001552838_0.smil
+财富天下,rtsp://112.111.36.140/PLTV/88888909/224/3221225704/10000100000000060000000000391508_0.smil
+欢笑剧场,rtsp://112.111.36.140/PLTV/88888909/224/3221225770/10000100000000060000000001418465_0.smil
+都市剧场,rtsp://112.111.36.140/PLTV/88888909/224/3221225771/10000100000000060000000001418795_0.smil
+法治天地,rtsp://112.111.36.140/PLTV/88888909/224/3221225797/10000100000000060000000001507003_0.smil
+东方财经,rtsp://112.111.36.140/PLTV/88888909/224/3221225792/10000100000000060000000001506918_0.smil
+第一财经,rtsp://112.111.36.140/PLTV/88888909/224/3221225821/10000100000000060000000001578316_0.smil
+金色频道,rtsp://112.111.36.140/PLTV/88888909/224/3221225810/10000100000000060000000001552917_0.smil
+七彩戏剧,rtsp://112.111.36.140/PLTV/88888909/224/3221225768/10000100000000060000000001385892_0.smil
+生活时尚,rtsp://112.111.36.140/PLTV/88888909/224/3221225807/10000100000000060000000001551440_0.smil
+中国教育1台,rtsp://112.111.36.140/PLTV/88888909/224/3221225790/10000100000000060000000001466098_0.smil
+中国教育2台,rtsp://112.111.36.140/PLTV/88888909/224/3221225747/10000100000000060000000000403955_0.smil
+中国教育4台,rtsp://112.111.36.140/PLTV/88888909/224/3221225748/10000100000000060000000000403956_0.smil
+金鹰卡通,rtsp://112.111.36.140/PLTV/88888909/224/3221225709/10000100000000060000000000400938_0.smil
+卡酷动画,rtsp://112.111.36.140/PLTV/88888909/224/3221225710/10000100000000060000000000400947_0.smil
+山东教育,rtsp://112.111.36.140/PLTV/88888909/224/3221225705/10000100000000060000000000391773_0.smil
+哈哈炫动,rtsp://112.111.36.140/PLTV/88888909/224/3221225806/10000100000000060000000001551324_0.smil
+动漫秀场,rtsp://112.111.36.140/PLTV/88888909/224/3221225773/10000100000000060000000001423252_0.smil
+嘉佳卡通,rtsp://112.111.36.140/PLTV/88888909/224/3221225708/10000100000000060000000000400919_0.smil
+游戏风云,rtsp://112.111.36.140/PLTV/88888909/224/3221225785/10000100000000060000000001425778_0.smil
+IPTV3+,rtsp://112.111.36.140/PLTV/88888909/224/3221225732/10000100000000060000000000401626_0.smil
+IPTV5+,rtsp://112.111.36.140/PLTV/88888909/224/3221225744/10000100000000060000000000403891_0.smil
+IPTV6+,rtsp://112.111.36.140/PLTV/88888909/224/3221225735/10000100000000060000000000401650_0.smil
+IPTV8+,rtsp://112.111.36.140/PLTV/88888909/224/3221225736/10000100000000060000000000401651_0.smil
+IPTV热播剧场,rtsp://112.111.36.140/PLTV/88888909/224/3221225742/10000100000000060000000000402494_0.smil
+IPTV经典电影,rtsp://112.111.36.140/PLTV/88888909/224/3221225743/10000100000000060000000000403890_0.smil
+IPTV少儿动画,rtsp://112.111.36.140/PLTV/88888909/224/3221225739/10000100000000060000000000402460_0.smil
+IPTV魅力时尚,rtsp://112.111.36.140/PLTV/88888909/224/3221225740/10000100000000060000000000402461_0.smil
+IPTV谍战剧场,rtsp://112.111.36.140/PLTV/88888909/224/3221225728/10000100000000060000000000401568_0.smil
+IPTV相声小品,rtsp://112.111.36.140/PLTV/88888909/224/3221225729/10000100000000060000000000401590_0.smil
+IPTV野外,rtsp://112.111.36.140/PLTV/88888909/224/3221225730/10000100000000060000000000401591_0.smil
+IPTV法治,rtsp://112.111.36.140/PLTV/88888909/224/3221225731/10000100000000060000000000401625_0.smil
+IPTV收视指南,rtsp://112.111.36.140/PLTV/88888909/224/3221225741/10000100000000060000000000402493_0.smil
+直播室101,rtsp://112.111.36.140:554/PLTV/88888909/224/3221225814/10000100000000060000000001577927_0.smil
+直播室102,rtsp://112.111.36.140:554/PLTV/88888909/224/3221225815/10000100000000060000000001578108_0.smil
+直播室103,rtsp://112.111.36.140:554/PLTV/88888909/224/3221225816/10000100000000060000000001578310_0.smil
+直播室104,rtsp://112.111.36.140:554/PLTV/88888909/224/3221225817/10000100000000060000000001578311_0.smil
+直播室105,rtsp://112.111.36.140:554/PLTV/88888909/224/3221225818/10000100000000060000000001578312_0.smil
+直播室106,rtsp://112.111.36.140:554/PLTV/88888909/224/3221225819/10000100000000060000000001578313_0.smil
+直播室107,rtsp://112.111.36.140:554/PLTV/88888909/224/3221225820/1000010000000060000000001578315_0.smil
+直播室108,rtsp://112.111.36.140:554/PLTV/88888909/224/3221225821/10000100000000060000000001578316_0.smil
+CCTV1(标清),rtsp://112.111.36.140:554/PLTV/88888909/224/3221225824/10000100000000060000000001630436_0.smil
+股评汇,rtsp://112.111.36.140:554/PLTV/88888909/224/3221225796/10000100000000060000000001506992_0.smil
+东南卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225774/10000100000000060000000001423288_0.smil
+海峡卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225787/10000100000000060000000001426615_0.smil
+福建综合,rtsp://112.111.36.140/PLTV/88888909/224/3221225772/10000100000000060000000001418882_0.smil
+福建新闻,rtsp://112.111.36.140/PLTV/88888909/224/3221225776/10000100000000060000000001424177_0.smil
+福建体育,rtsp://112.111.36.140/PLTV/88888909/224/3221225780/10000100000000060000000001424371_0.smil
+福建旅游,rtsp://112.111.36.140/PLTV/88888909/224/3221225778/10000100000000060000000001424299_0.smil
+福建经济,rtsp://112.111.36.140/PLTV/88888909/224/3221225779/10000100000000060000000001424334_0.smil
+福建少儿,rtsp://112.111.36.140/PLTV/88888909/224/3221225786/10000100000000060000000001426129_0.smil
+福建公共,rtsp://112.111.36.140/PLTV/88888909/224/3221225775/10000100000000060000000001423348_0.smil
+福建教育,rtsp://112.111.36.140/PLTV/88888909/224/3221225822/10000100000000060000000001619264_0.smil
+厦门卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225706/10000100000000060000000000391859_0.smil
+南平一套,rtsp://112.111.36.140/PLTV/88888909/224/3221225843/10000100000000060000000002473546_0.smil
+宁德一套,rtsp://112.111.36.140/PLTV/88888909/224/3221225840/10000100000000060000000002442816_0.smil
+三明一套,rtsp://112.111.36.140/PLTV/88888909/224/3221225844/10000100000000060000000002473617_0.smil
+福州一套,rtsp://112.111.36.140/PLTV/88888909/224/3221225836/10000100000000060000000002365466_0.smil
+厦门一套,rtsp://112.111.36.140/PLTV/88888909/224/3221225837/10000100000000060000000002441431_0.smil
+泉州一套,rtsp://112.111.36.140/PLTV/88888909/224/3221225838/10000100000000060000000002442472_0.smil
+莆田一套,rtsp://112.111.36.140/PLTV/88888909/224/3221225841/10000100000000060000000002473202_0.smil
+龙岩一套,rtsp://112.111.36.140/PLTV/88888909/224/3221225842/10000100000000060000000002473437_0.smil
+漳州一套,rtsp://112.111.36.140/PLTV/88888909/224/3221225839/10000100000000060000000002442645_0.smil
+融媒体直播,rtsp://112.111.36.140/PLTV/88888909/224/3221225960/10000100000000060000000003176803_0.smil
+珠峰5G,rtsp://112.111.36.140/PLTV/88888909/224/3221225827/10000100000000060000000001665846_0.smil
+组播
+福建综合HD,rtp://239.255.40.148:8208
+东南卫视HD,rtp://239.255.40.149:8208
+福建乡村振兴公共频道HD,rtp://239.255.40.150:8208
+福建新闻HD,rtp://239.255.40.151:8208
+福建电视剧,rtp://239.255.40.152:8208
+福建旅游,rtp://239.255.40.153:8208
+福建经济生活,rtp://239.255.40.154:8208
+福建体育HD,rtp://239.255.40.155:8208
+福建少儿,rtp://239.255.40.156:8208
+海峡卫视HD,rtp://239.255.40.157:8208
+福建教育频道,rtp://239.255.40.106:8208
+厦门卫视,rtp://239.255.40.28:8208
+CCTV1HD,rtp://239.255.40.35:8208
+CCTV2HD,rtp://239.255.40.36:8208
+CCTV3HD,rtp://239.255.40.169:8208
+IPTV3+,rtp://239.255.40.62:8208
+CCTV4HD,rtp://239.255.40.161:8208
+IPTV5+HD,rtp://239.255.40.71:8208
+CCTV5HD,rtp://239.255.40.176:8208
+CCTV5+HD,rtp://239.255.40.34:8208
+CCTV6HD,rtp://239.255.40.175:8208
+IPTV6+,rtp://239.255.40.64:8208
+CCTV7HD,rtp://239.255.40.37:8208
+CCTV8HD,rtp://239.255.40.177:8208
+IPTV8+,rtp://239.255.40.65:8208
+CCTV9HD,rtp://239.255.40.38:8208
+CCTV10HD,rtp://239.255.40.39:8208
+CCTV11HD,rtp://239.255.40.2:8208
+CCTV12HD,rtp://239.255.40.40:8208
+CCTV13,rtp://239.255.40.3:8208
+CCTV14HD,rtp://239.255.40.41:8208
+CCTV15HD,rtp://239.255.40.4:8208
+CGTN,rtp://239.255.40.5:8208
+CGTN英文纪录HD,rtp://239.255.40.183:8208
+CGTN俄语HD,rtp://239.255.40.179:8208
+CGTN法语HD,rtp://239.255.40.178:8208
+CCTV17农业HD,rtp://239.255.40.143:8208
+东方卫视HD,rtp://239.255.40.50:8208
+湖南卫视HD,rtp://239.255.40.43:8208
+江苏卫视HD,rtp://239.255.40.42:8208
+浙江卫视HD,rtp://239.255.40.49:8208
+北京卫视HD,rtp://239.255.40.46:8208
+广东卫视HD,rtp://239.255.40.52:8208
+山东卫视HD,rtp://239.255.40.51:8208
+湖北卫视HD,rtp://239.255.40.47:8208
+黑龙江卫视HD,rtp://239.255.40.44:8208
+贵州卫视HD,rtp://239.255.40.163:8208
+安徽卫视HD,rtp://239.255.40.53:8208
+天津卫视HD,rtp://239.255.40.48:8208
+四川卫视,rtp://239.255.40.19:8208
+江西卫视,rtp://239.255.40.18:8208
+辽宁卫视HD,rtp://239.255.40.54:8208
+重庆卫视,rtp://239.255.40.21:8208
+河北卫视HD,rtp://239.255.40.20:8208
+云南卫视,rtp://239.255.40.6:8208
+河南卫视HD,rtp://239.255.40.9:8208
+海南卫视HD,rtp://239.255.40.23:8208
+广西卫视,rtp://239.255.40.22:8208
+陕西卫视,rtp://239.255.40.10:8208
+青海卫视,rtp://239.255.40.15:8208
+宁夏卫视,rtp://239.255.40.8:8208
+中国教育-1HD,rtp://239.255.40.74:8208
+纪实频道HD,rtp://239.255.40.55:8208
+中国教育-2,rtp://239.255.40.30:8208
+中国气象,rtp://239.255.40.89:8208
+金鹰卡通,rtp://239.255.40.25:8208
+卡酷卡通,rtp://239.255.40.24:8208
+吉林卫视HD,rtp://239.255.40.17:8208
+山西卫视,rtp://239.255.40.13:8208
+甘肃卫视,rtp://239.255.40.16:8208
+内蒙古卫视,rtp://239.255.40.14:8208
+新疆卫视,rtp://239.255.40.11:8208
+兵团卫视,rtp://239.255.40.29:8208
+西藏卫视,rtp://239.255.40.12:8208
+南方卫视,rtp://239.255.40.164:8208
+金鹰纪实HD,rtp://239.255.40.57:8208
+三沙卫视,rtp://239.255.40.82:8208
+中国教育-4,rtp://239.255.40.31:8208
+山东教育,rtp://239.255.40.32:8208
+财富天下,rtp://239.255.40.33:8208
+欢笑剧场HD,rtp://239.255.40.144:8208
+都市剧场HD,rtp://239.255.40.145:8208
+极速汽车HD,rtp://239.255.40.90:8208
+哈哈炫动,rtp://239.255.40.91:8208
+动漫秀场HD,rtp://239.255.40.146:8208
+嘉佳卡通,rtp://239.255.40.26:8208
+游戏风云HD,rtp://239.255.40.147:8208
+全纪实HD,rtp://239.255.40.75:8208
+法治天地,rtp://239.255.40.76:8208
+东方财经,rtp://239.255.40.77:8208
+金色频道,rtp://239.255.40.92:8208
+七彩戏剧,rtp://239.255.40.142:8208
+生活时尚HD,rtp://239.255.40.93:8208
+少儿动画,rtp://239.255.40.66:8208
+魅力时尚,rtp://239.255.40.67:8208
+收视指南,rtp://239.255.40.68:8208
+股评汇,rtp://239.255.40.81:8208
+经典电影,rtp://239.255.40.70:8208
+IPTV谍战剧场,rtp://239.255.40.58:8208
+IPTV相声小品,rtp://239.255.40.59:8208
+IPTV野外,rtp://239.255.40.60:8208
+IPTV法治,rtp://239.255.40.61:8208
+直播室101,rtp://239.255.40.98:8208
+直播室102,rtp://239.255.40.99:8208
+直播室103,rtp://239.255.40.100:8208
+直播室104,rtp://239.255.40.101:8208
+直播室105,rtp://239.255.40.102:8208
+直播室106,rtp://239.255.40.103:8208
+直播室107,rtp://239.255.40.104:8208
+直播室108,rtp://239.255.40.105:8208
+CCTV1(标清),rtp://239.255.40.108:8208
+爱上4K,rtp://239.255.40.187:8208
+福州新闻,rtp://239.255.40.170:8208
+厦门新闻,rtp://239.255.40.171:8208
+泉州新闻,rtp://239.255.40.172:8208
+龙岩新闻,rtp://239.255.40.160:8208
+宁德新闻,rtp://239.255.40.174:8208
+南平新闻,rtp://239.255.40.166:8208
+莆田新闻,rtp://239.255.40.140:8208
+三明新闻,rtp://239.255.40.167:8208
+漳州新闻,rtp://239.255.40.173:8208
+融媒体直播,rtp://239.255.40.188:8208
+珠峰5G,rtp://239.255.40.159:8208
+
 福建PLTV 央视,#genre#
-CCTV4K 16M2160,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
-凤凰中文 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
-凤凰资讯 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-CCTV1 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
-CCTV1 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227014/index.m3u8?servicetype=1
-CCTV1 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226995/index.m3u8?servicetype=1
-CCTV1 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
-CCTV1 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1
-CCTV2 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226795/index.m3u8?servicetype=1
-CCTV2 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225800/index.m3u8?servicetype=1
-CCTV2 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225923/index.m3u8?servicetype=1
-CCTV2 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226915/index.m3u8?servicetype=1
-CCTV3 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227055/index.m3u8?servicetype=1
-CCTV4 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1
-CCTV4 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226968/index.m3u8?servicetype=1
-CCTV5 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1
-CCTV5+ 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1
-CCTV5+ 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225939/index.m3u8?servicetype=1
-CCTV5+ 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226919/index.m3u8?servicetype=1
-CCTV6 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227137/index.m3u8?servicetype=1
-CCTV7 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225805/index.m3u8?servicetype=1
-CCTV7 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225927/index.m3u8?servicetype=1
-CCTV7 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226972/index.m3u8?servicetype=1
-CCTV8 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227174/index.m3u8?servicetype=1
-CCTV9 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225820/index.m3u8?servicetype=1
-CCTV9 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225929/index.m3u8?servicetype=1
-CCTV9 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226923/index.m3u8?servicetype=1
-CCTV10 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225814/index.m3u8?servicetype=1
-CCTV10 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226976/index.m3u8?servicetype=1
-CCTV10 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225931/index.m3u8?servicetype=1
-CCTV11 3.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225815/index.m3u8?servicetype=1
-CCTV11 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226927/index.m3u8?servicetype=1
-CCTV12 2.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225816/index.m3u8?servicetype=1
-CCTV12 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225932/index.m3u8?servicetype=1
-CCTV12 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226931/index.m3u8?servicetype=1
-CCTV13 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
-CCTV13 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226985/index.m3u8?servicetype=1
-CCTV14 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225819/index.m3u8?servicetype=1
-CCTV14 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227086/index.m3u8?servicetype=1
-CCTV14 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225933/index.m3u8?servicetype=1
-CCTV15 3.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1
-CCTV15 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226989/index.m3u8?servicetype=1
-CCTV16 25M2160,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
-CCTV16 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227148/index.m3u8?servicetype=1
-CCTV16 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227125/index.m3u8?servicetype=1
-CCTV17 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
-CCTV17 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226986/index.m3u8?servicetype=1
-中国教育1 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227067/index.m3u8?servicetype=1
-纯享4K 20M2160,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
-芒果TV 15M2160,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-成都大熊猫繁育研究基地 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226715/index.m3u8?servicetype=1
+CCTV1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
+CCTV1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227014/index.m3u8?servicetype=1
+CCTV1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226995/index.m3u8?servicetype=1
+CCTV1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
+CCTV1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1
+CCTV2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226795/index.m3u8?servicetype=1
+CCTV2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225800/index.m3u8?servicetype=1
+CCTV2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225923/index.m3u8?servicetype=1
+CCTV2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226915/index.m3u8?servicetype=1
+CCTV3,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227055/index.m3u8?servicetype=1
+CCTV4,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1
+CCTV4,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226968/index.m3u8?servicetype=1
+CCTV5,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1
+CCTV5+,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1
+CCTV5+,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225939/index.m3u8?servicetype=1
+CCTV5+,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226919/index.m3u8?servicetype=1
+CCTV6,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227137/index.m3u8?servicetype=1
+CCTV7,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225805/index.m3u8?servicetype=1
+CCTV7,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225927/index.m3u8?servicetype=1
+CCTV7,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226972/index.m3u8?servicetype=1
+CCTV8,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227174/index.m3u8?servicetype=1
+CCTV9,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225820/index.m3u8?servicetype=1
+CCTV9,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225929/index.m3u8?servicetype=1
+CCTV9,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226923/index.m3u8?servicetype=1
+CCTV10,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225814/index.m3u8?servicetype=1
+CCTV10,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226976/index.m3u8?servicetype=1
+CCTV10,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225931/index.m3u8?servicetype=1
+CCTV11,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225815/index.m3u8?servicetype=1
+CCTV11,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226927/index.m3u8?servicetype=1
+CCTV12,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225816/index.m3u8?servicetype=1
+CCTV12,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225932/index.m3u8?servicetype=1
+CCTV12,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226931/index.m3u8?servicetype=1
+CCTV13,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
+CCTV13,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226985/index.m3u8?servicetype=1
+CCTV14,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225819/index.m3u8?servicetype=1
+CCTV14,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227086/index.m3u8?servicetype=1
+CCTV14,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225933/index.m3u8?servicetype=1
+CCTV15,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1
+CCTV15,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226989/index.m3u8?servicetype=1
+CCTV16,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+CCTV16,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227148/index.m3u8?servicetype=1
+CCTV16,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227125/index.m3u8?servicetype=1
+CCTV17,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
+CCTV17,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226986/index.m3u8?servicetype=1
+CCTV4K,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+中国教育1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227067/index.m3u8?servicetype=1
+纯享4K,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+芒果TV,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+成都大熊猫繁育研究基地,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226715/index.m3u8?servicetype=1
 
-福建PLTV 卫视,#genre#
-东南卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
-东方卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1
-东方卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226560/index.m3u8?servicetype=1
-东方卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227040/index.m3u8?servicetype=1
-东方卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227059/index.m3u8?servicetype=1
-云南卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1
-北京卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225826/index.m3u8?servicetype=1
-北京卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225937/index.m3u8?servicetype=1
-北京卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227246/index.m3u8?servicetype=1
-吉林卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1
-四川卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227182/index.m3u8?servicetype=1
-天津卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225830/index.m3u8?servicetype=1
-天津卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225941/index.m3u8?servicetype=1
-天津卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227205/index.m3u8?servicetype=1
-安徽卫视 2.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225844/index.m3u8?servicetype=1
-安徽卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227178/index.m3u8?servicetype=1
-山东卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225843/index.m3u8?servicetype=1
-山东卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226928/index.m3u8?servicetype=1
-山东卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227236/index.m3u8?servicetype=1
-广东卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1
-广东卫视 7M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226895/index.m3u8?servicetype=1
-广东卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1
-广西卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227250/index.m3u8?servicetype=1
-江苏卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1
-江苏卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227160/index.m3u8?servicetype=1
-江西卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225834/index.m3u8?servicetype=1
-江西卫视 7M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227022/index.m3u8?servicetype=1
-江西卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227209/index.m3u8?servicetype=1
-河北卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1
-河南卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227095/index.m3u8?servicetype=1
-浙江卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225825/index.m3u8?servicetype=1
-浙江卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225934/index.m3u8?servicetype=1
-浙江卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227193/index.m3u8?servicetype=1
-海南卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1
-海峡卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
-深圳卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225848/index.m3u8?servicetype=1
-深圳卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225938/index.m3u8?servicetype=1
-深圳卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227242/index.m3u8?servicetype=1
-湖北卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225840/index.m3u8?servicetype=1
-湖北卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226863/index.m3u8?servicetype=1
-湖北卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227111/index.m3u8?servicetype=1
-湖南卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1
-湖南卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226924/index.m3u8?servicetype=1
-湖南卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227232/index.m3u8?servicetype=1
-甘肃卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227262/index.m3u8?servicetype=1
-贵州卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226827/index.m3u8?servicetype=1
-贵州卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227201/index.m3u8?servicetype=1
-辽宁卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225832/index.m3u8?servicetype=1
-辽宁卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1
-重庆卫视 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225831/index.m3u8?servicetype=1
-重庆卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225949/index.m3u8?servicetype=1
-重庆卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1
-黑龙江卫视 3.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225862/index.m3u8?servicetype=1
-黑龙江卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225940/index.m3u8?servicetype=1
-黑龙江卫视 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227197/index.m3u8?servicetype=1
+FJ-卫视,#genre#
+凤凰中文,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+凤凰资讯,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+东南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
+东方卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1
+东方卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226560/index.m3u8?servicetype=1
+东方卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227040/index.m3u8?servicetype=1
+东方卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227059/index.m3u8?servicetype=1
+云南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1
+北京卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225826/index.m3u8?servicetype=1
+北京卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225937/index.m3u8?servicetype=1
+北京卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227246/index.m3u8?servicetype=1
+吉林卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1
+四川卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227182/index.m3u8?servicetype=1
+天津卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225830/index.m3u8?servicetype=1
+天津卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225941/index.m3u8?servicetype=1
+天津卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227205/index.m3u8?servicetype=1
+安徽卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225844/index.m3u8?servicetype=1
+安徽卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227178/index.m3u8?servicetype=1
+山东卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225843/index.m3u8?servicetype=1
+山东卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226928/index.m3u8?servicetype=1
+山东卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227236/index.m3u8?servicetype=1
+广东卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1
+广东卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226895/index.m3u8?servicetype=1
+广东卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1
+广西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227250/index.m3u8?servicetype=1
+江苏卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1
+江苏卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227160/index.m3u8?servicetype=1
+江西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225834/index.m3u8?servicetype=1
+江西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227022/index.m3u8?servicetype=1
+江西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227209/index.m3u8?servicetype=1
+河北卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1
+河南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227095/index.m3u8?servicetype=1
+浙江卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225825/index.m3u8?servicetype=1
+浙江卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225934/index.m3u8?servicetype=1
+浙江卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227193/index.m3u8?servicetype=1
+海南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1
+海峡卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
+深圳卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225848/index.m3u8?servicetype=1
+深圳卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225938/index.m3u8?servicetype=1
+深圳卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227242/index.m3u8?servicetype=1
+湖北卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225840/index.m3u8?servicetype=1
+湖北卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226863/index.m3u8?servicetype=1
+湖北卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227111/index.m3u8?servicetype=1
+湖南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1
+湖南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226924/index.m3u8?servicetype=1
+湖南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227232/index.m3u8?servicetype=1
+甘肃卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227262/index.m3u8?servicetype=1
+贵州卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226827/index.m3u8?servicetype=1
+贵州卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227201/index.m3u8?servicetype=1
+辽宁卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225832/index.m3u8?servicetype=1
+辽宁卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1
+重庆卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225831/index.m3u8?servicetype=1
+重庆卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225949/index.m3u8?servicetype=1
+重庆卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1
+黑龙江卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225862/index.m3u8?servicetype=1
+黑龙江卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225940/index.m3u8?servicetype=1
+黑龙江卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227197/index.m3u8?servicetype=1
 
-🌻福建PLTV 省内,#genre#
-厦门卫视 3.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
-厦门1 7M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227185/index.m3u8?servicetype=1
-厦门1 3.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1
-厦门2 3.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1
-厦门3 3.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
-福建乡村振兴公共 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
-福建少儿 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
-福建教育 6M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227202/index.m3u8?servicetype=1
-福建文体 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
-福建新闻 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1
-福建旅游 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
-福建电视剧 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227079/index.m3u8?servicetype=1
-福建经济 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227184/index.m3u8?servicetype=1
-福建综合 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
-南平1 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1
-南平2 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1
-宁德1 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227196/index.m3u8?servicetype=1
-龙岩综合 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227200/index.m3u8?servicetype=1
-福州1 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227157/index.m3u8?servicetype=1
-莆田1 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227161/index.m3u8?servicetype=1
-泉州1 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227165/index.m3u8?servicetype=1
-漳州1 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227169/index.m3u8?servicetype=1
-平潭综合 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227218/index.m3u8?servicetype=1
-三明1 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227173/index.m3u8?servicetype=1
-福建教育 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226981/index.m3u8?servicetype=1
+FJ-省内,#genre#
+福建综合,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
+福建公共,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
+福建新闻,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1
+福建电视剧,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227079/index.m3u8?servicetype=1
+福建经济,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227184/index.m3u8?servicetype=1
+福建旅游,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
+福建文体,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
+福建少儿,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
+福建教育,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227202/index.m3u8?servicetype=1
+厦门卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
+厦门1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227185/index.m3u8?servicetype=1
+厦门1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1
+厦门2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1
+厦门3,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
+南平1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1
+南平2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1
+宁德1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227196/index.m3u8?servicetype=1
+龙岩综合,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227200/index.m3u8?servicetype=1
+福州1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227157/index.m3u8?servicetype=1
+莆田1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227161/index.m3u8?servicetype=1
+泉州1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227165/index.m3u8?servicetype=1
+漳州1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227169/index.m3u8?servicetype=1
+平潭综合,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227218/index.m3u8?servicetype=1
+三明1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227173/index.m3u8?servicetype=1
 
-福建PLTV 数字,#genre#
-黑莓动画 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1
-黑莓电影 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1
-SiTV游戏风云 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
-上海纪实人文 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225946/index.m3u8?servicetype=1
-上海纪实人文 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227213/index.m3u8?servicetype=1
-北京冬奥纪实 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225944/index.m3u8?servicetype=1
-湖南金鹰纪实 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226975/index.m3u8?servicetype=1
-湖南金鹰纪实 7M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226937/index.m3u8?servicetype=1
-湖南快乐垂钓 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227028/index.m3u8?servicetype=1
-湖南快乐垂钓 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226940/index.m3u8?servicetype=1
-湖南金鹰卡通 7M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227018/index.m3u8?servicetype=1
-江西陶瓷 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227234/index.m3u8?servicetype=1
-哒啵赛事 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226676/index.m3u8?servicetype=1
-哒啵赛事 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227252/index.m3u8?servicetype=1
-哒啵赛事 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225894/index.m3u8?servicetype=1
-哒啵赛事 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226680/index.m3u8?servicetype=1
-SiTV极速汽车 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227052/index.m3u8?servicetype=1
-SiTV七彩戏剧 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227212/index.m3u8?servicetype=1
-SiTV东方财经 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227087/index.m3u8?servicetype=1
-SiTV全纪实 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1
-SiTV动漫秀场 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1
-SiTV极速汽车 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227186/index.m3u8?servicetype=1
-SiTV欢笑剧场 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1
-SiTV法治天地 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227176/index.m3u8?servicetype=1
-SiTV游戏风云 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227075/index.m3u8?servicetype=1
-SiTV生活时尚 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
-SiTV都市剧场 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
-SiTV金色学堂 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1
-上海第一财经 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226987/index.m3u8?servicetype=1
-上海哈哈炫动 3.5M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225872/index.m3u8?servicetype=1
-上海哈哈炫动 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227177/index.m3u8?servicetype=1
-广东嘉佳卡通 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227230/index.m3u8?servicetype=1
-北京卡酷少儿 4M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225871/index.m3u8?servicetype=1
-北京卡酷少儿 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226963/index.m3u8?servicetype=1
-江苏优漫卡通 4M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225874/index.m3u8?servicetype=1
-湖南金鹰卡通 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226959/index.m3u8?servicetype=1
-湖南金鹰卡通 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225870/index.m3u8?servicetype=1
-湖南先锋乒羽 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226851/index.m3u8?servicetype=1
-湖南茶频道 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226859/index.m3u8?servicetype=1
+FJ-数字,#genre#
+黑莓动画,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1
+黑莓电影,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1
+SiTV游戏风云,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
+上海纪实人文,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225946/index.m3u8?servicetype=1
+上海纪实人文,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227213/index.m3u8?servicetype=1
+北京冬奥纪实,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225944/index.m3u8?servicetype=1
+湖南金鹰纪实,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226975/index.m3u8?servicetype=1
+湖南金鹰纪实,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226937/index.m3u8?servicetype=1
+湖南快乐垂钓,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227028/index.m3u8?servicetype=1
+湖南快乐垂钓,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226940/index.m3u8?servicetype=1
+湖南金鹰卡通,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227018/index.m3u8?servicetype=1
+江西陶瓷,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227234/index.m3u8?servicetype=1
+哒啵赛事,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226676/index.m3u8?servicetype=1
+哒啵赛事,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227252/index.m3u8?servicetype=1
+哒啵赛事,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225894/index.m3u8?servicetype=1
+哒啵赛事,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226680/index.m3u8?servicetype=1
+SiTV极速汽车,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227052/index.m3u8?servicetype=1
+SiTV七彩戏剧,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227212/index.m3u8?servicetype=1
+SiTV东方财经,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227087/index.m3u8?servicetype=1
+SiTV全纪实,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1
+SiTV动漫秀场,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1
+SiTV极速汽车,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227186/index.m3u8?servicetype=1
+SiTV欢笑剧场,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1
+SiTV法治天地,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227176/index.m3u8?servicetype=1
+SiTV游戏风云,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227075/index.m3u8?servicetype=1
+SiTV生活时尚,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
+SiTV都市剧场,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
+SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1
+上海第一财经,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226987/index.m3u8?servicetype=1
+上海哈哈炫动,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225872/index.m3u8?servicetype=1
+上海哈哈炫动,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227177/index.m3u8?servicetype=1
+广东嘉佳卡通,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227230/index.m3u8?servicetype=1
+北京卡酷少儿,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225871/index.m3u8?servicetype=1
+北京卡酷少儿,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226963/index.m3u8?servicetype=1
+江苏优漫卡通,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225874/index.m3u8?servicetype=1
+湖南金鹰卡通,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226959/index.m3u8?servicetype=1
+湖南金鹰卡通,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225870/index.m3u8?servicetype=1
+湖南先锋乒羽,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226851/index.m3u8?servicetype=1
+湖南茶频道,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226859/index.m3u8?servicetype=1
 
-福建PLTV NewTV,#genre#
-NewTV中国功夫 2.5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225896/index.m3u8?servicetype=1
-NewTV军事评论 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225890/index.m3u8?servicetype=1
-NewTV军旅剧场 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225887/index.m3u8?servicetype=1
-NewTV动作电影 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
-NewTV古装剧场 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225880/index.m3u8?servicetype=1
-NewTV家庭剧场 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225882/index.m3u8?servicetype=1
-NewTV怡伴健康 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225883/index.m3u8?servicetype=1
-NewTV惊悚悬疑 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225885/index.m3u8?servicetype=1
-NewTV武搏世界 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225895/index.m3u8?servicetype=1
-NewTV海外剧场 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225881/index.m3u8?servicetype=1
-NewTV潮妈辣婆 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226107/index.m3u8?servicetype=1
-NewTV炫舞未来 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226699/index.m3u8?servicetype=1
-NewTV爱情喜剧 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225877/index.m3u8?servicetype=1
-NewTV精品体育 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225886/index.m3u8?servicetype=1
-NewTV精品大剧 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225889/index.m3u8?servicetype=1
-NewTV精品纪录 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1
-NewTV金牌综艺 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225884/index.m3u8?servicetype=1
+FJ-NewTV,#genre#
+NewTV中国功夫,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225896/index.m3u8?servicetype=1
+NewTV军事评论,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225890/index.m3u8?servicetype=1
+NewTV军旅剧场,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225887/index.m3u8?servicetype=1
+NewTV动作电影,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
+NewTV古装剧场,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225880/index.m3u8?servicetype=1
+NewTV家庭剧场,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225882/index.m3u8?servicetype=1
+NewTV怡伴健康,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225883/index.m3u8?servicetype=1
+NewTV惊悚悬疑,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225885/index.m3u8?servicetype=1
+NewTV武搏世界,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225895/index.m3u8?servicetype=1
+NewTV海外剧场,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225881/index.m3u8?servicetype=1
+NewTV潮妈辣婆,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226107/index.m3u8?servicetype=1
+NewTV炫舞未来,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226699/index.m3u8?servicetype=1
+NewTV爱情喜剧,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225877/index.m3u8?servicetype=1
+NewTV精品体育,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225886/index.m3u8?servicetype=1
+NewTV精品大剧,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225889/index.m3u8?servicetype=1
+NewTV精品纪录,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1
+NewTV金牌综艺,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225884/index.m3u8?servicetype=1
 
-福建PLTV 百事通,#genre#
-百视通轮播(谍战) 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227045/index.m3u8?servicetype=1
-百视通轮播(科幻) 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
-百视通轮播1 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227134/index.m3u8?servicetype=1
-百视通轮播2 8M720,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227036/index.m3u8?servicetype=1
-百视通轮播3 8M720,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
-百视通宣传动画 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
-百视通宣传动画 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226564/index.m3u8?servicetype=1
-百事通宣传动画 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226599/index.m3u8?servicetype=1
-百事通宣传动画 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226646/index.m3u8?servicetype=1
-百事通宣传动画 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226569/index.m3u8?servicetype=1
-百事通宣传动画 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226573/index.m3u8?servicetype=1
-百事通宣传动画 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226638/index.m3u8?servicetype=1
-百事通宣传动画 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226565/index.m3u8?servicetype=1
-百事通宣传动画 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226642/index.m3u8?servicetype=1
-百事通宣传动画 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226603/index.m3u8?servicetype=1
-百视通轮播(纪录) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227048/index.m3u8?servicetype=1
-百视通轮播(港剧) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226991/index.m3u8?servicetype=1
-百视通轮播(棋牌) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227041/index.m3u8?servicetype=1
-百视通轮播(运动) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227044/index.m3u8?servicetype=1
-百视通轮播(演出) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227049/index.m3u8?servicetype=1
-百视通轮播(动画) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227053/index.m3u8?servicetype=1
-百视通轮播(电影) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227032/index.m3u8?servicetype=1
+FJ-百事通,#genre#
+百视通轮播(谍战),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227045/index.m3u8?servicetype=1
+百视通轮播(科幻),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
+百视通轮播1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227134/index.m3u8?servicetype=1
+百视通轮播2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227036/index.m3u8?servicetype=1
+百视通轮播3,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
+百视通宣传动画,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
+百视通宣传动画,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226564/index.m3u8?servicetype=1
+百事通宣传动画,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226599/index.m3u8?servicetype=1
+百事通宣传动画,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226646/index.m3u8?servicetype=1
+百事通宣传动画,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226569/index.m3u8?servicetype=1
+百事通宣传动画,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226573/index.m3u8?servicetype=1
+百事通宣传动画,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226638/index.m3u8?servicetype=1
+百事通宣传动画,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226565/index.m3u8?servicetype=1
+百事通宣传动画,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226642/index.m3u8?servicetype=1
+百事通宣传动画,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226603/index.m3u8?servicetype=1
+百视通轮播(纪录),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227048/index.m3u8?servicetype=1
+百视通轮播(港剧),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226991/index.m3u8?servicetype=1
+百视通轮播(棋牌),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227041/index.m3u8?servicetype=1
+百视通轮播(运动),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227044/index.m3u8?servicetype=1
+百视通轮播(演出),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227049/index.m3u8?servicetype=1
+百视通轮播(动画),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227053/index.m3u8?servicetype=1
+百视通轮播(电影),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227032/index.m3u8?servicetype=1
 
-福建PLTV 影视,#genre#
-影视1 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
-影视2 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
-影视3 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-影视4 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226754/index.m3u8?servicetype=1
-影视5 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1
-影视6 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
-影视7 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1
-影视8 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
-影视9 4M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1
-咪咕视频 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1
-咪咕视频 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1
-咪咕视频 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1
-咪咕视频 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1
-咪咕视频 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1
+FJ-影视,#genre#
+影视1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
+影视2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
+影视3,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
+影视4,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226754/index.m3u8?servicetype=1
+影视5,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1
+影视6,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
+影视7,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1
+影视8,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
+影视9,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1
+咪咕视频,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1
+咪咕视频,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1
+咪咕视频,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1
+咪咕视频,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1
+咪咕视频,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1
 信号测试 5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226664/index.m3u8?servicetype=1
-福建PLTV 标清,#genre#
-CCTV1 720,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225812/index.m3u8?servicetype=1
-CCTV1 720,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226624/index.m3u8?servicetype=1
-CGTN 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226980/index.m3u8?servicetype=1
-CGTN 3.5M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225822/index.m3u8?servicetype=1
-CGTN纪录 3.5M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225813/index.m3u8?servicetype=1
-CGTN俄语 3.5M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227103/index.m3u8?servicetype=1
-CGTN法语 3.5M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227220/index.m3u8?servicetype=1
-CGTN西语 3.5M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227238/index.m3u8?servicetype=1
-CGTN阿语 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227224/index.m3u8?servicetype=1
-中国天气 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1
-中国教育1 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225869/index.m3u8?servicetype=1
-中国教育2 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227206/index.m3u8?servicetype=1
-中国教育4 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227192/index.m3u8?servicetype=1
-中国教育4 4M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227050/index.m3u8?servicetype=1
-东南卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225833/index.m3u8?servicetype=1
-云南卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225853/index.m3u8?servicetype=1
-内蒙古卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225846/index.m3u8?servicetype=1
-内蒙古卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226933/index.m3u8?servicetype=1
-内蒙古卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227244/index.m3u8?servicetype=1
-厦门卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226964/index.m3u8?servicetype=1
-吉林卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225851/index.m3u8?servicetype=1
-四川卫视 3.5M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225835/index.m3u8?servicetype=1
-宁夏卫视 4M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225849/index.m3u8?servicetype=1
-宁夏卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226843/index.m3u8?servicetype=1
-宁夏卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227254/index.m3u8?servicetype=1
-山西卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225839/index.m3u8?servicetype=1
-山西卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226839/index.m3u8?servicetype=1
-山西卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227258/index.m3u8?servicetype=1
-广西卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225836/index.m3u8?servicetype=1
-广西卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226925/index.m3u8?servicetype=1
-新疆卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225852/index.m3u8?servicetype=1
-新疆卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226936/index.m3u8?servicetype=1
-新疆卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227248/index.m3u8?servicetype=1
-河北卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225837/index.m3u8?servicetype=1
-河南卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225842/index.m3u8?servicetype=1
-海南卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225855/index.m3u8?servicetype=1
-甘肃卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225845/index.m3u8?servicetype=1
-甘肃卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226932/index.m3u8?servicetype=1
-西藏卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226847/index.m3u8?servicetype=1
-西藏卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227217/index.m3u8?servicetype=1
-贵州卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225838/index.m3u8?servicetype=1
-陕西卫视 4M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225850/index.m3u8?servicetype=1
-陕西卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227221/index.m3u8?servicetype=1
-青海卫视 3.5M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225841/index.m3u8?servicetype=1
-青海卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227119/index.m3u8?servicetype=1
-四川康巴卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1
-山东教育卫视 4M576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225873/index.m3u8?servicetype=1
-广东南方卫视上星 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1
-新疆兵团卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227168/index.m3u8?servicetype=1
-海南三沙卫视 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1
+
+FJ-标清,#genre#
+CCTV1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225812/index.m3u8?servicetype=1
+CCTV1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226624/index.m3u8?servicetype=1
+CGTN,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226980/index.m3u8?servicetype=1
+CGTN,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225822/index.m3u8?servicetype=1
+CGTN纪录,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225813/index.m3u8?servicetype=1
+CGTN俄语,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227103/index.m3u8?servicetype=1
+CGTN法语,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227220/index.m3u8?servicetype=1
+CGTN西语,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227238/index.m3u8?servicetype=1
+CGTN阿语,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227224/index.m3u8?servicetype=1
+中国天气,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1
+中国教育1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225869/index.m3u8?servicetype=1
+中国教育2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227206/index.m3u8?servicetype=1
+中国教育4,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227192/index.m3u8?servicetype=1
+中国教育4,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227050/index.m3u8?servicetype=1
+东南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225833/index.m3u8?servicetype=1
+云南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225853/index.m3u8?servicetype=1
+内蒙古卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225846/index.m3u8?servicetype=1
+内蒙古卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226933/index.m3u8?servicetype=1
+内蒙古卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227244/index.m3u8?servicetype=1
+厦门卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226964/index.m3u8?servicetype=1
+吉林卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225851/index.m3u8?servicetype=1
+四川卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225835/index.m3u8?servicetype=1
+宁夏卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225849/index.m3u8?servicetype=1
+宁夏卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226843/index.m3u8?servicetype=1
+宁夏卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227254/index.m3u8?servicetype=1
+山西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225839/index.m3u8?servicetype=1
+山西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226839/index.m3u8?servicetype=1
+山西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227258/index.m3u8?servicetype=1
+广西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225836/index.m3u8?servicetype=1
+广西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226925/index.m3u8?servicetype=1
+新疆卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225852/index.m3u8?servicetype=1
+新疆卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226936/index.m3u8?servicetype=1
+新疆卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227248/index.m3u8?servicetype=1
+河北卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225837/index.m3u8?servicetype=1
+河南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225842/index.m3u8?servicetype=1
+海南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225855/index.m3u8?servicetype=1
+甘肃卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225845/index.m3u8?servicetype=1
+甘肃卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226932/index.m3u8?servicetype=1
+西藏卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226847/index.m3u8?servicetype=1
+西藏卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227217/index.m3u8?servicetype=1
+贵州卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225838/index.m3u8?servicetype=1
+陕西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225850/index.m3u8?servicetype=1
+陕西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227221/index.m3u8?servicetype=1
+青海卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225841/index.m3u8?servicetype=1
+青海卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227119/index.m3u8?servicetype=1
+四川康巴卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1
+山东教育卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225873/index.m3u8?servicetype=1
+广东南方卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1
+新疆兵团卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227168/index.m3u8?servicetype=1
+海南三沙卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1
 
 📺港、澳、台,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
