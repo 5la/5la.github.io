@@ -9,6 +9,7 @@
     {"key":"酷猫","name":"酷猫影视","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_hbys","name":"简影在线","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
     {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Nbys","name":"泥巴影院","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "Ikan","name": "爱看影视","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},   
     {"key":"csp_Tkys","name":"天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LiteApple","name":"小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
@@ -16,13 +17,11 @@
     {"key":"csp_Bttoo","name": "Bttwo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Nbys","name":"泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"If101","name":"If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     {"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     {"key":"AliPS","name":" 盘  搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     {"key": "push_agent","name":" 推  送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
-
     {"key":"考拉直链","name":"考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 ## XB系列
     {"key": "csp_555电影","name": "555电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://home.jundie.top:81/Cat/MaooXB/555电影.json"},
