@@ -344,7 +344,7 @@ CCTV1(标清),rtp://239.255.40.108:8208
 融媒体直播,rtp://239.255.40.188:8208
 珠峰5G,rtp://239.255.40.159:8208
 
-福建PLTV 央视,#genre#
+福建移动-央视,#genre#
 CCTV1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
 CCTV1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227014/index.m3u8?servicetype=1
 CCTV1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226995/index.m3u8?servicetype=1
@@ -395,7 +395,7 @@ CCTV4K,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226998/ind
 芒果TV,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 成都大熊猫繁育研究基地,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226715/index.m3u8?servicetype=1
 
-FJ-卫视,#genre#
+福建移动-卫视,#genre#
 凤凰中文,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰资讯,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 东南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
@@ -454,7 +454,7 @@ FJ-卫视,#genre#
 黑龙江卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225940/index.m3u8?servicetype=1
 黑龙江卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227197/index.m3u8?servicetype=1
 
-FJ-省内,#genre#
+福建移动-省内,#genre#
 福建综合,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
 福建公共,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
 福建新闻,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1
@@ -480,7 +480,7 @@ FJ-省内,#genre#
 平潭综合,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227218/index.m3u8?servicetype=1
 三明1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227173/index.m3u8?servicetype=1
 
-FJ-数字,#genre#
+福建移动-数字,#genre#
 黑莓动画,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1
 黑莓电影,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1
 SiTV游戏风云,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
@@ -521,7 +521,7 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 湖南先锋乒羽,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226851/index.m3u8?servicetype=1
 湖南茶频道,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226859/index.m3u8?servicetype=1
 
-FJ-NewTV,#genre#
+福建移动-NewTV,#genre#
 NewTV中国功夫,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225896/index.m3u8?servicetype=1
 NewTV军事评论,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225890/index.m3u8?servicetype=1
 NewTV军旅剧场,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225887/index.m3u8?servicetype=1
@@ -540,7 +540,7 @@ NewTV精品大剧,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/322
 NewTV精品纪录,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1
 NewTV金牌综艺,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225884/index.m3u8?servicetype=1
 
-FJ-百事通,#genre#
+福建移动-百事通,#genre#
 百视通轮播(谍战),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227045/index.m3u8?servicetype=1
 百视通轮播(科幻),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
 百视通轮播1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227134/index.m3u8?servicetype=1
@@ -564,7 +564,7 @@ FJ-百事通,#genre#
 百视通轮播(动画),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227053/index.m3u8?servicetype=1
 百视通轮播(电影),http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227032/index.m3u8?servicetype=1
 
-FJ-影视,#genre#
+福建移动-影视,#genre#
 影视1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
 影视2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
 影视3,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
@@ -581,7 +581,7 @@ FJ-影视,#genre#
 咪咕视频,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1
 信号测试 5M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226664/index.m3u8?servicetype=1
 
-FJ-标清,#genre#
+福建移动-标清,#genre#
 CCTV1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225812/index.m3u8?servicetype=1
 CCTV1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226624/index.m3u8?servicetype=1
 CGTN,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226980/index.m3u8?servicetype=1
@@ -633,7 +633,7 @@ CGTN阿语,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227224
 新疆兵团卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227168/index.m3u8?servicetype=1
 海南三沙卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1
 
-📺港、澳、台,#genre#
+港、澳、台,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
@@ -2568,7 +2568,7 @@ CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
 盗墓笔记,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
 
-📚iHOT,#genre#
+iHOT,#genre#
 爱院线,http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
 爱科幻,http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
 爱浪漫,http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
