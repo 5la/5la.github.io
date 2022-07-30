@@ -252,7 +252,14 @@ while [ $# -gt 0 ]; do
             ntp=ntp.tencent.com
             security_repository=mirror
             ;;
-        --txyun)
+        --aliyun)
+            dns='223.5.5.5 223.6.6.6'
+            mirror_protocol=https
+            mirror_host=mirrors.aliyun.com
+            ntp=ntp.aliyun.com
+            security_repository=mirror
+            ;;
+       --txyun)
             dns='119.29.29.29 180.76.76.76'
             mirror_protocol=http
             mirror_host=mirrors.tencentyun.com
@@ -752,8 +759,13 @@ popularity-contest popularity-contest/participate boolean false
 
 # Boot loader installation
 
-d-i grub-installer/bootdev string default
 EOF
+
+if [ -n "$disk" ]; then
+    echo "d-i grub-installer/bootdev string $disk" | $save_preseed
+else
+    echo 'd-i grub-installer/bootdev string default' | $save_preseed
+fi
 
 [ "$force_efi_extra_removable" = true ] && echo 'd-i grub-installer/force-efi-extra-removable boolean true' | $save_preseed
 [ -n "$kernel_params" ] && echo "d-i debian-installer/add-kernel-opts string$kernel_params" | $save_preseed
