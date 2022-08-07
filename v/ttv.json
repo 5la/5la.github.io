@@ -1,7 +1,7 @@
 {
-  "spider":"https://5la.github.io/jar/top921.jar",
-  "spider":"https://5la.github.io/jar/bl.jar",
-  "spider":"https://5la.github.io/jar/yg.jar",
+  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/5la/5la.github.io/master/jar/top921.jar",
+  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/5la/5la.github.io/master/jar/bl.jar",
+  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/5la/5la.github.io/master/jar/yg.jar",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly81bGEuZ2l0aHViLmlvL3YvdG9wbGl2ZS50eHQ="]}]}],
 
   "sites":[
