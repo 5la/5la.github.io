@@ -15,7 +15,6 @@
     {"key": "Ikan","name": "爱看影视","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},   
     {"key":"csp_Tkys","name":"天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LiteApple","name":"小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-    {"key":"csp_SP360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo","name": "Bttwo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
