@@ -1795,6 +1795,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://picsum.photos/1080/",
-  "spider": "https://5la.github.io/jar/18.jar"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/5la/5la.github.io/master/jar/18.jar"
 }
