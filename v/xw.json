@@ -51,16 +51,6 @@
             "quickSearch":1,
             "filterable":1
         },
-          {
-            "key":"KanSJ_spider",
-            "name":"看视界",
-            "api":"csp_KanSJ",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1,
-            "ext":""
-        },
              {
             "key":"快看影视",
             "name":"快看影视",
@@ -79,6 +69,16 @@
             "quickSearch":0,
             "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy.jar",
             "filterable":1
+        },
+               {
+            "key":"KanSJ_spider",
+            "name":"看视界",
+            "api":"csp_KanSJ",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1,
+            "ext":""
         },
         {
             "key":"csp_LiteApple",
