@@ -1,5 +1,57 @@
 {
-  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/5la/5la.github.io/master/jar/cs0805.jar",
+	// 首页背景
+    "wallpaper": "https://5la.github.io/bg.jpg",
+ 	// 首页推荐视频 (豆瓣)
+	"recommend": [{
+	"name": "豆瓣推荐",
+	"request": {
+		"method": "GET",
+		"header": [{
+			"key": "Referer",
+			"value": "https://movie.douban.com/"
+		}],
+		"url": {
+			"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
+		}
+	},
+	"response": {
+		"result": "$.data",
+		"data": [{
+				"key": "name",
+				"value": "title"
+			},
+			{
+				"key": "note",
+				"value": "rate"
+			},
+			{
+				"key": "pic",
+				"value": "cover"
+			}
+		]
+	},
+	"expires" : "86400"
+	}],
+    // 评分 (数据来自 豆瓣)
+    "rating": [{
+        "name": "rating",
+        "request": {
+    	"method": "GET",
+    	"url": {
+    		"raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
+    	}
+    },
+    "response": {
+        "result": "this",
+        "data": [
+    			{
+    				"key": "rating",
+    				"value": "doubanRating"
+    			}
+    		]
+        }
+    }],
+    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/5la/5la.github.io/master/jar/cs0805.jar",
     "lives":[
         {
             "group":"redirect",
@@ -41,15 +93,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"
-        },
-               {
-            "key":"酷猫",
-            "name":"酷猫影视",
-            "type":3,
-            "api":"csp_Kmys",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
              {
             "key":"快看影视",
