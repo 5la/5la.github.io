@@ -52,6 +52,7 @@
         }
     }],
     "spider":"https://ghproxy.com/https://raw.githubusercontent.com/5la/5la.github.io/master/jar/cs0805.jar",
+    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/5la/5la.github.io/master/jar/top921.jar",
     "lives":[
         {
             "group":"redirect",
