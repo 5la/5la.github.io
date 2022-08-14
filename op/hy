@@ -1,23 +1,5 @@
 proxies:
-  - name: "KT"
-    type: hysteria
-    server: kt.welsun.win
-    port: 10001
-    auth_str: Isky729007
-    #obfs: yourpassword
-    alpn: h3
-    protocol: wechat-video          #支持udp/wechat-video/faketcp
-    up: 125         #若不写单位，默认为Mbps
-    down: 625      #若不写单位，默认为Mbps
-    #sni: ut.welsun.win
-    #skip-cert-verify: false
-    #recv_window_conn: 12582912
-    #recv_window: 52428800
-    #auth_str: "yubiyubi"
-    #ca: "./my.ca"
-    #ca_str: "xyz"
-    #disable_mtu_discovery: false
-    
+  - {name: "UT", type: hysteria, server: ut.welsun.win, port: 10001, auth_str: Isky729007, alpn: h3, protocol: wechat-video, up: 125, down: 625} 
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -26,27 +8,27 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - DIRECT
-      - KT
+      - UT
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - KT
+      - UT
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - KT
+      - UT
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - KT
+      - UT
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -66,7 +48,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
-      - KT
+      - UT
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
