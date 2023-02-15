@@ -228,6 +228,7 @@ install_recommends=true
 install='ca-certificates libpam-systemd'
 upgrade=
 kernel_params=
+force_lowmem=
 bbr=false
 ssh_port=
 hold=false
@@ -246,13 +247,6 @@ while [ $# -gt 0 ]; do
             security_repository=mirror
             ;;
         --china)
-            dns='119.29.29.29 180.76.76.76'
-            mirror_protocol=https
-            mirror_host=mirrors.tencent.com
-            ntp=ntp.tencent.com
-            security_repository=mirror
-            ;;
-        --aliyun)
             dns='223.5.5.5 223.6.6.6'
             mirror_protocol=https
             mirror_host=mirrors.aliyun.com
@@ -361,6 +355,11 @@ while [ $# -gt 0 ]; do
             ;;
         --no-part|--no-disk-partitioning)
             disk_partitioning=false
+            ;;
+        --force-lowmem)
+            [ "$2" != 0 ] && [ "$2" != 1 ] && [ "$2" != 2 ] && err 'Low memory level can only be 0, 1 or 2'
+            force_lowmem=$2
+            shift
             ;;
         --disk)
             disk=$2
@@ -642,13 +641,13 @@ d-i time/zone string $timezone
 d-i clock-setup/utc boolean true
 d-i clock-setup/ntp boolean true
 d-i clock-setup/ntp-server string $ntp
+
+# Partitioning
+
 EOF
 
 [ "$disk_partitioning" = true ] && {
     $save_preseed << 'EOF'
-
-# Partitioning
-
 d-i partman-auto/method string regular
 EOF
     if [ -n "$disk" ]; then
@@ -657,14 +656,16 @@ EOF
         # shellcheck disable=SC2016
         echo 'd-i partman/early_command string debconf-set partman-auto/disk "$(list-devices disk | head -n 1)"' | $save_preseed
     fi
+}
 
-    [ "$force_gpt" = true ] && {
-        $save_preseed << 'EOF'
+[ "$force_gpt" = true ] && {
+    $save_preseed << 'EOF'
 d-i partman-partitioning/choose_label string gpt
 d-i partman-partitioning/default_label string gpt
 EOF
-    }
+}
 
+[ "$disk_partitioning" = true ] && {
     echo "d-i partman/default_filesystem string $filesystem" | $save_preseed
 
     [ -z "$efi" ] && {
@@ -835,6 +836,8 @@ installer_directory=$(grub2-mkrelpath "$mkrelpath" 2> /dev/null) || {
 [ "$dry_run" = true ] && installer_directory="$installer_directory/debian-$suite"
 
 kernel_params="$kernel_params lowmem/low=1"
+
+[ -n "$force_lowmem" ] && kernel_params="$kernel_params lowmem=+$force_lowmem"
 
 initrd="$installer_directory/initrd.gz"
 [ "$firmware" = true ] && initrd="$initrd $installer_directory/firmware.cpio.gz"
