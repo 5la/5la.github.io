@@ -247,6 +247,13 @@ while [ $# -gt 0 ]; do
             security_repository=mirror
             ;;
         --china)
+            dns='119.29.29.29 180.76.76.76'
+            mirror_protocol=https
+            mirror_host=mirrors.tencent.com
+            ntp=ntp.tencent.com
+            security_repository=mirror
+            ;;            
+        --aliyun)
             dns='223.5.5.5 223.6.6.6'
             mirror_protocol=https
             mirror_host=mirrors.aliyun.com
