@@ -11,8 +11,8 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"type":"vless","name":"fvs","server":"cip.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078333","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"fvs.bima.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"fvs.bima.eu.org"}}}
-  - {"type":"vless","name":"vls","server":"cip.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078222","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"vls.ulab.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"vls.ulab.eu.org"}}}
+  - {"type":"vless","name":"fvs","server":"sgi.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078333","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"fvs.bima.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"fvs.bima.eu.org"}}}
+  - {"type":"vless","name":"vls","server":"sgi.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078222","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"vls.ulab.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"vls.ulab.eu.org"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
