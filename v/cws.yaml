@@ -33,45 +33,51 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - fvs      
-      - vls
+      - jp
+      - hk
+      - sg
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - fvs    
-      - vls
+      - jp
+      - hk
+      - sg
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - fvs      
-      - vls
+      - jp
+      - hk
+      - sg
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - fvs      
-      - vls
+      - jp
+      - hk
+      - sg
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - fvs      
-      - vls
+      - jp
+      - hk
+      - sg
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - fvs      
-      - vls
+      - jp
+      - hk
+      - sg
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -94,8 +100,9 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - fvs      
-      - vls
+      - jp
+      - hk
+      - sg
 rules:
 # 本地/局域网地址
 # 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
