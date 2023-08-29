@@ -24,60 +24,60 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {"type":"vless","name":"jp","server":"tok.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078333","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"fvs.bima.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"fvs.bima.eu.org"}}}
-  - {"type":"vless","name":"hk","server":"hki.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078111","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"hls.bima.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"hls.bima.eu.org"}}}
-  - {"type":"vless","name":"sg","server":"sgo.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078222","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"vls.ulab.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"vls.ulab.eu.org"}}}
+  - {"type":"vless","name":"JP","server":"tok.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078333","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"tls.bima.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"tls.bima.eu.org"}}}
+  - {"type":"vless","name":"HK","server":"hki.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078111","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"hls.bima.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"hls.bima.eu.org"}}}
+  - {"type":"vless","name":"SG","server":"sgo.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078222","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"gls.ulab.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"gls.ulab.eu.org"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - jp
-      - hk
-      - sg
+      - JP
+      - HK
+      - SG
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - jp
-      - hk
-      - sg
+      - JP
+      - HK
+      - SG
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - jp
-      - hk
-      - sg
+      - JP
+      - HK
+      - SG
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - jp
-      - hk
-      - sg
+      - JP
+      - HK
+      - SG
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - jp
-      - hk
-      - sg
+      - JP
+      - HK
+      - SG
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - jp
-      - hk
-      - sg
+      - JP
+      - HK
+      - SG
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -100,9 +100,9 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - jp
-      - hk
-      - sg
+      - JP
+      - HK
+      - SG
 rules:
 # 本地/局域网地址
 # 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
