@@ -1,6 +1,6 @@
 #
 #-------------------------------------------------------------#
-#  创建时间：2023-08-29 10:25:52
+#  创建时间：2023-09-11 23:25:52
 #  节点数量：1
 #-------------------------------------------------------------#
 #
@@ -24,9 +24,9 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {"type":"vless","name":"JP","server":"tok.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078333","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"tls.bima.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"tls.bima.eu.org"}}}
-  - {"type":"vless","name":"HK","server":"hki.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078111","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"hls.bima.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"hls.bima.eu.org"}}}
-  - {"type":"vless","name":"SG","server":"sgo.ulab.eu.org","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078222","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"gls.ulab.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"gls.ulab.eu.org"}}}
+  - {"type":"vless","name":"JP","server":"tok.vis.pp.ua","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078333","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"tls.bima.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"tls.bima.eu.org"}}}
+  - {"type":"vless","name":"HK","server":"hki.vis.pp.ua","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078111","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"hls.bima.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"hls.bima.eu.org"}}}
+  - {"type":"vless","name":"SG","server":"sgo.vis.pp.ua","port":443,"uuid":"76707175-8130-4ac7-b261-86368b078222","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"gls.ulab.eu.org","ws-opts":{"path":"/?ed=2048","headers":{"host":"gls.ulab.eu.org"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
