@@ -175,10 +175,10 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.6
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
 港澳,#genre#
-凤凰卫视中文台,http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#http://113.64.147.88:8081/hls/37/index.m3u8#http://116.162.6.191/qctv.fengshows.cn/live/0701pcc72.m3u8#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
-凤凰卫视资讯台,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#http://113.64.147.88:8081/hls/36/index.m3u8#http://116.162.6.191/qctv.fengshows.cn/live/0701pin72.m3u8#P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64#P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
-凤凰卫视香港台,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8#http://113.64.147.88:8081/hls/38/index.m3u8#http://116.162.6.191/qctv.fengshows.cn/live/0701phk72.m3u8#P2p://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
-凤凰卫视电影台,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214#http://117.114.153.1:8180/TV00000000000000000072@HHZT
+凤凰中文,http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#http://113.64.147.88:8081/hls/37/index.m3u8#http://116.162.6.191/qctv.fengshows.cn/live/0701pcc72.m3u8#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
+凤凰资讯,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#http://113.64.147.88:8081/hls/36/index.m3u8#http://116.162.6.191/qctv.fengshows.cn/live/0701pin72.m3u8#P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64#P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
+凤凰香港,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8#http://113.64.147.88:8081/hls/38/index.m3u8#http://116.162.6.191/qctv.fengshows.cn/live/0701phk72.m3u8#P2p://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+凤凰电影,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214#http://117.114.153.1:8180/TV00000000000000000072@HHZT
 TVB翡翠台,P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8#http://60.30.198.43:5080/香蕉哥/广电翡翠/hls.m3u8#http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 TVB明珠台,P2p://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 TVBJ2,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
@@ -240,8 +240,8 @@ TVBS,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 年代新闻,P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c
 壹新闻,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 镜新闻,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
-东森财经新闻台,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
-非凡新闻台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+东森财经新闻,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
+非凡新闻,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 TVBS新闻,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 非凡商业,P2p://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
 三立iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
@@ -258,14 +258,8 @@ TVBS新闻,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 靖天育乐,P2p://generationnexxxt.com:19806/d67fd6c2e7c44e17b9e86d9073f2930e
 靖天戏剧,P2p://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
 靖天国际,P2p://generationnexxxt.com:19806/12d39bada24843588ad72a3175b785a2
-八大综合台,P2p://generationnexxxt.com:19806/6c18a737c1394e59ae5072935d630f40
-八大优频道,P2p://generationnexxxt.com:19806/7abaa68442ce4ed7ad7c9772fb46eda9
-八大第一台,P2p://generationnexxxt.com:19806/270abff66f5e496fb9c100a0dbca3fe6
-八大娱乐台,P2p://generationnexxxt.com:19806/cea44ead76804413bd48caf76c5c2749
-八大戏剧台,P2p://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
 中视经典,P2p://generationnexxxt.com:19806/8b9e15ff15474ccbbc2780c1484e50c9
 中视菁采,P2p://generationnexxxt.com:19806/ae5e01a7bc294327b88f65aa5d38217c
-客家电视,P2p://generationnexxxt.com:19806/eafabb6e7c30439b8ecd35ad40a46a96
 TVBS精采,P2p://generationnexxxt.com:19806/2089afbec2474359add275658522922f
 壹电视综,P2p://generationnexxxt.com:19806/617d6cf150574cb485ee07aea57262fd
 纬来综合,P2p://generationnexxxt.com:19806/d40310ae8bba42569d3d90b4cf7d9928
@@ -273,6 +267,11 @@ TVBS精采,P2p://generationnexxxt.com:19806/2089afbec2474359add275658522922f
 纬来日本,P2p://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2#rtmp://220.130.201.73/sat/tv771
 纬来精采,P2p://generationnexxxt.com:19806/1db14fe8aad841b4b28eca2b136e7206
 纬来育乐,P2p://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787#rtmp://220.130.201.73/sat/tv701
+八大综合台,P2p://generationnexxxt.com:19806/6c18a737c1394e59ae5072935d630f40
+八大优频道,P2p://generationnexxxt.com:19806/7abaa68442ce4ed7ad7c9772fb46eda9
+八大第一台,P2p://generationnexxxt.com:19806/270abff66f5e496fb9c100a0dbca3fe6
+八大娱乐台,P2p://generationnexxxt.com:19806/cea44ead76804413bd48caf76c5c2749
+八大戏剧台,P2p://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
 TVBS欢乐台,P2p://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
 高点综合台,P2p://generationnexxxt.com:19806/462775e2153243fc92adec0793c638d0
 台视财经台,P2p://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
@@ -377,6 +376,7 @@ ELEVEN体育2台,P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe
 智林体育台,P2p://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
 博斯运动二台,P2p://generationnexxxt.com:19806/65e1b65400075c3dc9f3762355b36cc1
 原住民电视台,P2p://generationnexxxt.com:19806/cb5b7549e3604100a605ca17c82808f5
+客家电视,P2p://generationnexxxt.com:19806/eafabb6e7c30439b8ecd35ad40a46a96
 大爱,P2p://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
 大爱2台,P2p://generationnexxxt.com:19806/2036b83c58e344c782eb154b233c8c77
 人间卫视,P2p://generationnexxxt.com:19806/66140e7f000b35888e9bf42339867058
