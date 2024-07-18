@@ -175,11 +175,11 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.6
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
 港澳,#genre#
-凤凰中文,https://z02.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#http://113.64.147.88:8081/hls/37/index.m3u8#http://116.162.6.191/qctv.fengshows.cn/live/0701pcc72.m3u8#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
-凤凰资讯,https://z02.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8#http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#http://113.64.147.88:8081/hls/36/index.m3u8#http://116.162.6.191/qctv.fengshows.cn/live/0701pin72.m3u8#P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64#P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
-凤凰香港,https://z02.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8#http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8#http://113.64.147.88:8081/hls/38/index.m3u8#http://116.162.6.191/qctv.fengshows.cn/live/0701phk72.m3u8#P2p://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
-凤凰电影,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214#http://117.114.153.1:8180/TV00000000000000000072@HHZT
-TVB翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8#http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8#P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8#http://60.30.198.43:5080/香蕉哥/广电翡翠/hls.m3u8#http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
+凤凰中文,http://116.162.6.191/qctv.fengshows.cn/live/0701pcc72.m3u8#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
+凤凰资讯,http://116.162.6.191/qctv.fengshows.cn/live/0701pin72.m3u8#P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64#P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
+凤凰香港,http://116.162.6.191/qctv.fengshows.cn/live/0701phk72.m3u8#P2p://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+凤凰电影,http://117.114.153.1:8180/TV00000000000000000072@HHZT
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 TVB明珠台,P2p://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 TVBJ2,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 TVB无线新闻,P2p://147.135.39.171:9906/658f93d500090264f39e82304f2d4370#P2p://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328#P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
