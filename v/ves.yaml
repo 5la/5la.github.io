@@ -24,8 +24,8 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {"type":"vless","name":"vea","server":"www.russia.com","port":8443,"uuid":"76707175-8130-4ac7-b261-86368b070111","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"vea.zyy.pp.ua","ws-opts":{"path":"/?ed=2560","headers":{"host":"vea.zyy.pp.ua"}}}
-  - {"type":"vless","name":"veb","server":"www.russia.com","port":8443,"uuid":"76707175-8130-4ac7-b261-86368b070222","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"veb.vis.pp.ua","ws-opts":{"path":"/?ed=2560","headers":{"host":"veb.vis.pp.ua"}}}
+  - {"type":"vless","name":"vea","server":"www.visa.com.sg","port":8443,"uuid":"76707175-8130-4ac7-b261-86368b070111","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"vea.zyy.pp.ua","ws-opts":{"path":"/?ed=2560","headers":{"host":"vea.zyy.pp.ua"}}}
+  - {"type":"vless","name":"veb","server":"www.visa.com.sg","port":8443,"uuid":"76707175-8130-4ac7-b261-86368b070222","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"veb.vis.pp.ua","ws-opts":{"path":"/?ed=2560","headers":{"host":"veb.vis.pp.ua"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
