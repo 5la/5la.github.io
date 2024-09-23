@@ -17,6 +17,19 @@ CCTV-15,rtsp://112.111.36.140/PLTV/88888909/224/3221225746/100001000000000600000
 CCTV-16,rtsp://112.111.36.140/PLTV/88888909/224/3221225977/10000100000000060000000004051299_0.smil?rrsip=220.200.30.136&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=gHASKekTX02sMmAfc6PgtdmXQFPebvCxh3AUeKfxojQ8GMyZzohLsBH5cYKsByndiD39EirrpaVKs72m2p2men%2FLKGO7Atqy1tBcCq1FLhn3TtsqvME4esPsuwF6vq0sn9AYNYLuJ1C3xfMImIZ9Qg%3D%3D%3A20240215154628%2C059491052086%2C175.44.46.48%2C20240215154628%2C00000001000000050000000000000625%2C8A39180499B68AE30F59B32DDF19C35F%2C-1%2C1%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
 CCTV-17,rtsp://220.200.30.136/PLTV/88888909/224/3221225769/10000100000000060000000001410290_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=gHASKekTX02sMmAfc6PgtdmXQFPebvCxh3AUeKfxojQ8GMyZzohLsBH5cYKsByndiD39EirrpaVKs72m2p2men%2FLKGO7Atqy1tBcCq1FLhn3TtsqvME4esPsuwF6vq0snSWmY7DoleAuoAsZU0SOsA%3D%3D%3A20240215154628%2C059491052086%2C175.44.46.48%2C20240215154628%2C00000001000000050000000000000580%2C8A39180499B68AE30F59B32DDF19C35F%2C-1%2C1%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
 CCTV-5+,rtsp://112.111.36.140/PLTV/88888909/224/3221225750/10000100000000060000000000403958_0.smil?rrsip=220.200.30.136&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=gHASKekTX02sMmAfc6PgtdmXQFPebvCxh3AUeKfxojQ8GMyZzohLsBH5cYKsByndiD39EirrpaVKs72m2p2men%2FLKGO7Atqy1tBcCq1FLhn3TtsqvME4esPsuwF6vq0sZW6W3BOMOoTf2eMs9Prj6A%3D%3D%3A20240215154628%2C059491052086%2C175.44.46.48%2C20240215154628%2C00000001000000050000000000000153%2C8A39180499B68AE30F59B32DDF19C35F%2C-1%2C1%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
+CCTV风云音乐,http://nas.tuyuannet.cn:8800/rtp/239.37.0.081:5540
+CCTV风云剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.114:5540
+CCTV第一剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.078:5540
+CCTV怀旧剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.082:5540
+CCTV文化精品,http://nas.tuyuannet.cn:8800/rtp/239.37.0.083:5540
+CCTV女性时尚,http://nas.tuyuannet.cn:8800/rtp/239.37.0.069:5540
+CCTV世界地理,http://nas.tuyuannet.cn:8800/rtp/239.37.0.079:5540
+CCTV台球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.163:5540
+CCTV风云足球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.080:5540
+CCTV高尔夫网球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.230:5540
+CCTV兵器科技,http://nas.tuyuannet.cn:8800/rtp/239.37.0.084:5540
+CCTV电视指南,http://nas.tuyuannet.cn:8800/rtp/239.37.0.115:5540
+CCTV卫生健康,http://nas.tuyuannet.cn:8800/rtp/239.37.0.229:5540
 
 卫视,#genre#
 东方卫视,rtsp://220.200.30.136/PLTV/88888909/224/3221225688/10000100000000060000000000390279_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=gHASKekTX02sMmAfc6PgtdmXQFPebvCxh3AUeKfxojQ8GMyZzohLsBH5cYKsByndiD39EirrpaVKs72m2p2men%2FLKGO7Atqy1tBcCq1FLhn3TtsqvME4esPsuwF6vq0sIhRWyShsEibunVyBxrIR4A%3D%3D%3A20240215154628%2C059491052086%2C175.44.46.48%2C20240215154628%2C00005000000000000000000000000263%2C8A39180499B68AE30F59B32DDF19C35F%2C-1%2C1%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
@@ -117,9 +130,9 @@ IPTV法治,rtsp://220.200.30.136/PLTV/88888909/224/3221225731/100001000000000600
 收视指南,rtsp://112.111.36.140/PLTV/88888909/224/3221225741/10000100000000060000000000402493_0.smil?rrsip=220.200.30.136&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=gHASKekTX02sMmAfc6PgtdmXQFPebvCxh3AUeKfxojQ8GMyZzohLsBH5cYKsByndiD39EirrpaVKs72m2p2men%2FLKGO7Atqy1tBcCq1FLhn3TtsqvME4esPsuwF6vq0scltiwDlsFDop75I3VjUR4w%3D%3D%3A20240215154628%2C059491052086%2C175.44.46.48%2C20240215154628%2C00000001000000050000000000000110%2C8A39180499B68AE30F59B32DDF19C35F%2C-1%2C1%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
 
 影剧,#genre#
-动作电影,http://183.215.116.132:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
-影迷电影,http://183.215.116.132:6610/180000001001/00000001000000000050000000448841/main.m3u8?IASHttpSessionId=OTT
-家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
+动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+影迷电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 黑莓电影,http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8#http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8#http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://l8221706.xiahouyuhan.icu/cqyx.php?id=cwjd#http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D#P2p://generationnexxxt.com:19806/448f8be690774f2da78e712d7bc43421#http://58.250.155.2:8180/TV00000000000000000022@HHZT#http://l8221706.xiahouyuhan.icu/bfgd.php?id=635
@@ -399,43 +412,6 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 年代新闻(B),P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc
 非凡新闻台(B),P2p://generationnexxxt.com:19806/a404066e65af4566931c773a385ed1e3
 
-台湾(备),#genre#
-中视,rtmp://f13h.mine.nu/sat/tv091#rtmp://220.130.201.73/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-民视,rtmp://f13h.mine.nu/sat/tv051#rtmp://220.130.201.73/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071#rtmp://220.130.201.73/sat/tv071
-TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS News,http://61.221.215.25:8800/hls/9/index.m3u8
-NHK World,http://61.221.215.25:8800/hls/51/index.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-三立iNews,http://194.87.101.118/live.m3u8?c=12
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-纬来体育,rtmp://f13h.mine.nu/sat/tv721#rtmp://220.130.201.73/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701#rtmp://220.130.201.73/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771#rtmp://220.130.201.73/sat/tv771
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-东森超视,rtmp://f13h.mine.nu/sat/tv331#rtmp://220.130.201.73/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN 1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN 2,rtmp://f13h.mine.nu/sat/tv741
-ELEVEN 3,rtmp://f13h.mine.nu/sat/tv751
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-华语财经2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
-华语财经3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
-大爱1，https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-
 日韩,#genre#
 TBS,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8#https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8#http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
@@ -480,3 +456,40 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
+台湾(备),#genre#
+中视,rtmp://f13h.mine.nu/sat/tv091#rtmp://220.130.201.73/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+民视,rtmp://f13h.mine.nu/sat/tv051#rtmp://220.130.201.73/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071#rtmp://220.130.201.73/sat/tv071
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS News,http://61.221.215.25:8800/hls/9/index.m3u8
+NHK World,http://61.221.215.25:8800/hls/51/index.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+三立iNews,http://194.87.101.118/live.m3u8?c=12
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+纬来体育,rtmp://f13h.mine.nu/sat/tv721#rtmp://220.130.201.73/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701#rtmp://220.130.201.73/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771#rtmp://220.130.201.73/sat/tv771
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331#rtmp://220.130.201.73/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN 1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN 2,rtmp://f13h.mine.nu/sat/tv741
+ELEVEN 3,rtmp://f13h.mine.nu/sat/tv751
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+华语财经2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
+华语财经3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
+大爱1，https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
