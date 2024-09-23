@@ -803,10 +803,12 @@ HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
 Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
 now财经台,P2p://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8ca#P2p://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd534
 美亚电影台(粤语),P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 18台,P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6
 HOY资讯台,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
 Hands Up,P2p://generationnexxxt.com:19806/7c21e515d5264c9fa21035456fd5024a
 now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74#P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 澳门-MACAU,P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf#P2p://generationnexxxt.com:19806/a2bbc4a4feec4168804624c67fdea801
 澳门莲花,P2p://generationnexxxt.com:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8#P2p://generationnexxxt.com:19806/f7ac1f0fdbe64fcc82cee29e0b590242
 澳亚卫视,http://117.114.153.18:8180/TV00000000000000000082@HHZT#http://119.125.134.177:9901/tsfile/live/1073_1.m3u8#http://119.34.189.38:33333/udp/224.1.100.12:11111#https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://107.151.203.111:2209/135/hk.php?id=aoya
