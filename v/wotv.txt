@@ -459,7 +459,7 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
-台湾(备),#genre#
+TW,#genre#
 中视,rtmp://f13h.mine.nu/sat/tv091#rtmp://220.130.201.73/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
 民视,rtmp://f13h.mine.nu/sat/tv051#rtmp://220.130.201.73/sat/tv051
@@ -494,6 +494,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.6
 华语财经3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
 大爱1，https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+GOODTV卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
 测试_9632159,#genre#
