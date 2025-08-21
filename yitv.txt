@@ -157,3 +157,4 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 超清,#genre#
 爱上4K,rtsp://220.200.30.136/PLTV/88888909/224/3221225965/10000100000000060000000003176328_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=gHASKekTX02sMmAfc6PgtdmXQFPebvCxh3AUeKfxojQ8GMyZzohLsBH5cYKsByndiD39EirrpaVKs72m2p2men%2FLKGO7Atqy1tBcCq1FLhn3TtsqvME4esPsuwF6vq0svNGtmbyyNG3yvEEMi42FFg%3D%3D%3A20240215154628%2C059491052086%2C175.44.46.48%2C20240215154628%2CBESTV002000000050000000000863647%2C8A39180499B68AE30F59B32DDF19C35F%2C-1%2C1%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
 FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+http://mp9f95qlr5w6g9:y1elpx1zic9qvx@p.proxik.cloud:8080
